@@ -1,0 +1,1201 @@
+customer_id,gender,age,city,signup_date,acquisition_channel,is_prime_member,state
+C1000,Male,55,Delhi,2023-03-31,Email,No,Delhi
+C1001,Female,22,Delhi,2025-02-12,Google Ads,No,Delhi
+C1002,Female,33,Indore,2024-10-16,Organic Search,No,Madhya Pradesh
+C1003,Female,20,Pune,2024-03-14,Google Ads,No,Maharashtra
+C1004,Female,24,Bengaluru,2024-03-09,Instagram Ads,No,Karnataka
+C1005,Female,26,Jaipur,2025-05-08,YouTube,No,Rajasthan
+C1006,Female,21,Mumbai,2023-03-27,Organic Search,No,Maharashtra
+C1007,Male,21,Delhi,2024-11-28,Referral,No,Delhi
+C1008,Female,31,Unknown,2023-07-21,Referral,No,Delhi
+C1009,Male,20,Nagpur,2023-04-05,Organic Search,No,Maharashtra
+C1010,Female,40,Kolkata,2024-06-10,Organic Search,Yes,West Bengal
+C1011,Female,23,Pune,2025-09-02,Instagram Ads,No,Maharashtra
+C1012,Female,60,Mumbai,2025-01-05,Email,Yes,Maharashtra
+C1013,Other,27,Delhi,2025-01-31,Google Ads,No,Delhi
+C1014,Male,33,Pune,2024-12-18,Google Ads,Yes,Maharashtra
+C1015,Female,19,Bengaluru,2025-02-25,Referral,Yes,Karnataka
+C1016,Female,49,Lucknow,2024-05-28,Email,No,Uttar Pradesh
+C1017,Male,43,Ahmedabad,2023-05-09,Google Ads,No,Gujarat
+C1018,Male,35,Hyderabad,2025-04-19,Google Ads,No,Telangana
+C1019,Male,19,Ahmedabad,2024-03-26,Referral,No,Gujarat
+C1020,Female,34,Nagpur,2024-05-15,Instagram Ads,Yes,Maharashtra
+C1021,Female,21,Hyderabad,2024-01-06,Email,No,Telangana
+C1022,Other,47,Pune,2023-07-02,Organic Search,No,Maharashtra
+C1023,Male,40,Lucknow,2025-07-15,Organic Search,No,Uttar Pradesh
+C1024,Other,33,Delhi,2025-02-20,Email,No,Delhi
+C1025,Male,18,Ujjain,2024-10-05,Instagram Ads,Yes,Madhya Pradesh
+C1026,Female,22,Mumbai,2024-02-07,Organic Search,No,Maharashtra
+C1027,Male,39,Unknown,2025-04-02,Organic Search,No,Maharashtra
+C1028,Female,44,Jaipur,2024-06-29,Google Ads,Yes,Rajasthan
+C1029,Female,43,Pune,2024-03-19,Email,No,Maharashtra
+C1030,Female,18,Chennai,2024-03-26,Organic Search,No,Tamil Nadu
+C1031,Female,35,Pune,2023-08-16,Organic Search,Yes,Maharashtra
+C1032,Male,42,Bangalore,2023-04-03,Instagram Ads,No,Delhi
+C1033,Male,18,Delhi,2024-07-08,YouTube,Yes,Delhi
+C1034,Male,32,Delhi,2025-06-06,Instagram Ads,Yes,Delhi
+C1035,Male,35,Pune,2023-03-05,YouTube,No,Maharashtra
+C1036,Female,29,Hyderabad,2025-05-08,Email,Yes,Telangana
+C1037,Female,18,Delhi,2025-04-07,Instagram Ads,Yes,Delhi
+C1038,Female,29,Ujjain,2023-10-04,Email,No,Madhya Pradesh
+C1039,Female,29,Bengaluru,2024-09-23,Referral,Yes,Karnataka
+C1040,Female,31,Bangalore,2023-06-15,Google Ads,No,Telangana
+C1041,Female,26,Hyderabad,2025-01-28,Instagram Ads,No,Telangana
+C1042,Male,28,Delhi,2024-12-01,Email,Yes,Delhi
+C1043,Male,32,Ahmedabad,2023-12-21,Email,No,Gujarat
+C1044,Female,36,Hyderabad,2023-03-09,Referral,Yes,Telangana
+C1045,Female,29,Mumbai,2025-08-28,YouTube,No,Maharashtra
+C1046,Male,28,Nagpur,2024-03-21,Google Ads,Yes,Maharashtra
+C1047,Female,33,Jaipur,2025-06-12,Email,No,Rajasthan
+C1048,Female,18,Unknown,2024-11-08,Email,Yes,Gujarat
+C1049,Male,32,Indore,2025-02-17,Organic Search,No,Madhya Pradesh
+C1050,Male,32,Lucknow,2025-01-29,Organic Search,Yes,Uttar Pradesh
+C1051,Female,32,Bengaluru,2023-07-14,Instagram Ads,Yes,Karnataka
+C1052,Female,42,Pune,2023-12-30,Email,No,Maharashtra
+C1053,Male,18,Unknown,2024-04-11,Instagram Ads,No,Maharashtra
+C1054,Female,18,Delhi,2024-05-12,Referral,No,Delhi
+C1055,Male,32,Delhi,2023-02-13,Organic Search,Yes,Delhi
+C1056,Female,32,Mumbai,2024-06-30,Instagram Ads,Yes,Maharashtra
+C1057,Male,34,Kolkata,2023-06-04,Google Ads,No,West Bengal
+C1058,Female,27,Jaipur,2025-01-13,Organic Search,No,Rajasthan
+C1059,Male,39,Unknown,2024-11-14,Email,No,Gujarat
+C1060,Male,41,Bengaluru,2025-07-11,Organic Search,No,Karnataka
+C1061,Female,37,Delhi,2025-01-14,YouTube,No,Delhi
+C1062,Male,29,Hyderabad,2024-01-02,Organic Search,Yes,Telangana
+C1063,Male,18,Chennai,2025-08-25,YouTube,No,Tamil Nadu
+C1064,Male,40,Lucknow,2024-02-15,Google Ads,No,Uttar Pradesh
+C1065,Female,44,Ujjain,2023-11-22,Organic Search,No,Madhya Pradesh
+C1066,Female,38,Lucknow,2025-06-24,Organic Search,No,Uttar Pradesh
+C1067,Other,23,Indore,2024-01-06,Organic Search,Yes,Madhya Pradesh
+C1068,Male,39,Nagpur,2023-03-18,Google Ads,No,Maharashtra
+C1069,Male,41,Hyderabad,2024-04-14,Email,No,Telangana
+C1070,Male,48,Mumbai,2025-03-06,Instagram Ads,Yes,Maharashtra
+C1071,Female,23,Mumbai,2023-07-09,Instagram Ads,No,Maharashtra
+C1072,Other,30,Bengaluru,2024-04-07,Google Ads,No,Karnataka
+C1073,Female,39,Delhi,2023-05-10,Google Ads,Yes,Delhi
+C1074,Female,33,Unknown,2024-11-17,Referral,Yes,Delhi
+C1075,Male,21,Bhopal,2024-04-20,Google Ads,Yes,Madhya Pradesh
+C1076,Female,36,Delhi,2023-11-27,Referral,No,Delhi
+C1077,Female,38,Bhopal,2023-08-15,YouTube,Yes,Madhya Pradesh
+C1078,Male,33,Ahmedabad,2024-07-18,Instagram Ads,No,Gujarat
+C1079,Male,34,Pune,2024-10-31,Organic Search,No,Maharashtra
+C1080,Male,29,Kolkata,2025-07-29,Organic Search,No,West Bengal
+C1081,Male,47,Bengaluru,2024-03-13,Google Ads,Yes,Karnataka
+C1082,Male,23,Pune,2023-06-10,Instagram Ads,No,Maharashtra
+C1083,Male,26,Delhi,2025-04-12,YouTube,No,Delhi
+C1084,Female,32,Bhopal,2024-09-21,Google Ads,No,Madhya Pradesh
+C1085,Male,41,Bengaluru,2024-12-01,Google Ads,Yes,Karnataka
+C1086,Male,18,Delhi,2023-04-08,Email,No,Delhi
+C1087,Female,19,Kolkata,2023-11-09,Instagram Ads,No,West Bengal
+C1088,Female,18,Kolkata,2025-02-06,Email,No,West Bengal
+C1089,Female,32,Hyderabad,2025-04-12,Organic Search,Yes,Telangana
+C1090,Male,21,Pune,2024-03-11,Google Ads,No,Maharashtra
+C1091,Female,28,Delhi,2025-03-15,YouTube,Yes,Delhi
+C1092,Male,39,Unknown,2025-04-21,Referral,Yes,West Bengal
+C1093,Male,26,Bengaluru,2024-01-23,Email,Yes,Karnataka
+C1094,Female,34,Bengaluru,2025-06-17,Instagram Ads,No,Karnataka
+C1095,Female,29,Delhi,2023-10-16,Email,No,Delhi
+C1096,Female,39,Bengaluru,2023-08-28,Google Ads,Yes,Karnataka
+C1097,Female,37,Bangalore,2024-11-13,Google Ads,No,Karnataka
+C1098,Female,25,Hyderabad,2024-09-28,Organic Search,No,Telangana
+C1099,Male,30,Delhi,2023-05-20,Organic Search,Yes,Delhi
+C1100,Male,42,Delhi,2025-04-12,Google Ads,No,Delhi
+C1101,Male,36,Chennai,2023-07-19,Organic Search,No,Tamil Nadu
+C1102,Male,18,Mumbai,2025-03-15,Referral,Yes,Maharashtra
+C1103,Female,39,Kolkata,2023-01-08,Email,No,West Bengal
+C1104,Male,32,Bhopal,2025-03-07,YouTube,No,Madhya Pradesh
+C1105,Female,46,Hyderabad,2025-02-25,Organic Search,No,Telangana
+C1106,Female,32,Lucknow,2025-02-19,YouTube,No,Uttar Pradesh
+C1107,Female,35,Mumbai,2024-10-26,Organic Search,No,Maharashtra
+C1108,Male,34,Mumbai,2024-04-16,Google Ads,No,Maharashtra
+C1109,Male,32,Ahmedabad,2024-12-06,Email,No,Gujarat
+C1110,Other,39,Unknown,2023-10-05,Organic Search,No,Gujarat
+C1111,Female,28,Indore,2025-02-19,Organic Search,Yes,Madhya Pradesh
+C1112,Female,34,Mumbai,2024-07-09,Organic Search,No,Maharashtra
+C1113,Female,41,Ahmedabad,2024-04-03,Google Ads,No,Gujarat
+C1114,Female,26,Bengaluru,2024-05-20,Email,Yes,Karnataka
+C1115,Male,26,Bengaluru,2024-07-22,Organic Search,No,Karnataka
+C1116,Female,20,Delhi,2023-02-07,Organic Search,No,Delhi
+C1117,Male,32,Nagpur,2023-05-20,Google Ads,No,Maharashtra
+C1118,Female,18,Mumbai,2023-09-03,Organic Search,No,Maharashtra
+C1119,Female,39,Jaipur,2023-04-25,Referral,No,Rajasthan
+C1120,Female,32,Pune,2024-03-15,YouTube,Yes,Maharashtra
+C1121,Male,46,Ahmedabad,2024-10-30,Referral,No,Gujarat
+C1122,Male,18,Kolkata,2024-10-16,Email,No,West Bengal
+C1123,Female,39,Indore,2024-04-16,Google Ads,No,Madhya Pradesh
+C1124,Male,46,Delhi,2025-05-05,Email,No,Delhi
+C1125,Male,27,Mumbai,2024-07-19,Organic Search,Yes,Maharashtra
+C1126,Male,33,Pune,2023-03-21,Organic Search,Yes,Maharashtra
+C1127,Male,18,Unknown,2025-02-03,Google Ads,No,Karnataka
+C1128,Male,32,Mumbai,2024-07-28,Organic Search,Yes,Maharashtra
+C1129,Female,21,Delhi,2024-09-26,Email,No,Delhi
+C1130,Male,34,Bengaluru,2024-07-19,Referral,No,Karnataka
+C1131,Male,18,Bangalore,2024-07-07,YouTube,No,Maharashtra
+C1132,Male,37,Bangalore,2023-04-01,Instagram Ads,No,Maharashtra
+C1133,Male,42,Lucknow,2024-07-13,Google Ads,No,Uttar Pradesh
+C1134,Male,24,Bengaluru,2025-03-05,Referral,Yes,Karnataka
+C1135,Female,21,Nagpur,2023-10-31,Organic Search,No,Maharashtra
+C1136,Male,18,Nagpur,2024-08-25,Google Ads,No,Maharashtra
+C1137,Male,29,Delhi,2023-01-31,Google Ads,Yes,Delhi
+C1138,Male,26,Kolkata,2023-12-14,YouTube,Yes,West Bengal
+C1139,Male,18,Pune,2024-03-12,Referral,No,Maharashtra
+C1140,Male,37,Kolkata,2025-09-09,Organic Search,Yes,West Bengal
+C1141,Male,28,Unknown,2023-08-03,Google Ads,No,Maharashtra
+C1142,Female,21,Delhi,2023-10-04,Google Ads,Yes,Delhi
+C1143,Male,26,Mumbai,2024-02-13,Organic Search,Yes,Maharashtra
+C1144,Female,43,Pune,2025-09-19,Instagram Ads,No,Maharashtra
+C1145,Female,38,Nagpur,2025-05-03,Instagram Ads,Yes,Maharashtra
+C1146,Male,31,Kolkata,2023-02-04,Organic Search,Yes,West Bengal
+C1147,Male,38,Unknown,2023-08-22,Google Ads,No,West Bengal
+C1148,Female,20,Nagpur,2025-04-01,Organic Search,No,Maharashtra
+C1149,Female,32,Kolkata,2023-02-28,Google Ads,No,West Bengal
+C1150,Male,33,Mumbai,2025-05-05,Organic Search,Yes,Maharashtra
+C1151,Male,27,Indore,2023-10-09,Referral,No,Madhya Pradesh
+C1152,Male,36,Bengaluru,2025-07-06,Organic Search,No,Karnataka
+C1153,Male,24,Mumbai,2023-10-21,Email,No,Maharashtra
+C1154,Female,37,Chennai,2024-03-10,Organic Search,No,Tamil Nadu
+C1155,Male,38,Bangalore,2024-10-23,Google Ads,No,Madhya Pradesh
+C1156,Male,18,Delhi,2023-05-07,Instagram Ads,No,Delhi
+C1157,Female,44,Bangalore,2024-07-11,Organic Search,No,Tamil Nadu
+C1158,Male,18,Delhi,2024-05-20,Google Ads,No,Delhi
+C1159,Male,26,Mumbai,2025-02-22,Email,No,Maharashtra
+C1160,Female,42,Mumbai,2025-09-23,YouTube,No,Maharashtra
+C1161,Male,29,Ahmedabad,2024-10-26,Instagram Ads,No,Gujarat
+C1162,Male,18,Indore,2024-02-14,Organic Search,Yes,Madhya Pradesh
+C1163,Male,21,Delhi,2024-02-11,Referral,No,Delhi
+C1164,Female,42,Bengaluru,2024-02-22,Google Ads,No,Karnataka
+C1165,Male,18,Delhi,2025-03-25,Organic Search,No,Delhi
+C1166,Male,43,Unknown,2023-11-18,Referral,No,Maharashtra
+C1167,Male,31,Chennai,2023-06-16,Google Ads,No,Tamil Nadu
+C1168,Male,20,Kolkata,2023-12-01,Google Ads,Yes,West Bengal
+C1169,Female,26,Pune,2023-01-23,Instagram Ads,No,Maharashtra
+C1170,Male,22,Bengaluru,2023-04-17,Instagram Ads,No,Karnataka
+C1171,Female,41,Chennai,2023-04-01,Organic Search,No,Tamil Nadu
+C1172,Female,39,Mumbai,2025-02-10,Referral,No,Maharashtra
+C1173,Female,18,Delhi,2024-12-23,Organic Search,No,Delhi
+C1174,Male,28,Bhopal,2024-11-27,Referral,No,Madhya Pradesh
+C1175,Female,23,Ahmedabad,2024-04-06,Email,No,Gujarat
+C1176,Female,45,Lucknow,2024-12-18,Referral,Yes,Uttar Pradesh
+C1177,Male,18,Lucknow,2023-06-11,Organic Search,No,Uttar Pradesh
+C1178,Female,48,Bangalore,2025-06-19,Instagram Ads,No,Maharashtra
+C1179,Female,32,Lucknow,2024-05-16,Instagram Ads,No,Uttar Pradesh
+C1180,Male,20,Hyderabad,2025-07-27,Google Ads,No,Telangana
+C1181,Female,25,Unknown,2023-06-02,YouTube,Yes,Maharashtra
+C1182,Male,24,Mumbai,2024-05-12,Instagram Ads,No,Maharashtra
+C1183,Female,19,Unknown,2024-11-27,Email,No,Maharashtra
+C1184,Other,33,Mumbai,2024-05-10,Organic Search,No,Maharashtra
+C1185,Male,20,Bengaluru,2024-03-22,Instagram Ads,Yes,Karnataka
+C1186,Female,18,Kolkata,2023-06-16,Organic Search,No,West Bengal
+C1187,Male,28,Unknown,2024-01-17,Referral,Yes,Rajasthan
+C1188,Female,18,Pune,2023-08-27,Organic Search,No,Maharashtra
+C1189,Female,24,Delhi,2023-10-29,Instagram Ads,No,Delhi
+C1190,Male,23,Ahmedabad,2024-11-14,Referral,Yes,Gujarat
+C1191,Male,23,Bengaluru,2024-09-22,Google Ads,No,Karnataka
+C1192,Male,32,Mumbai,2024-08-30,Organic Search,No,Maharashtra
+C1193,Male,33,Bengaluru,2023-12-28,Organic Search,No,Karnataka
+C1194,Male,34,Unknown,2025-08-17,Google Ads,Yes,Karnataka
+C1195,Male,18,Bengaluru,2023-03-29,Instagram Ads,No,Karnataka
+C1196,Male,25,Jaipur,2023-12-09,Organic Search,No,Rajasthan
+C1197,Male,34,Bangalore,2023-04-29,Google Ads,No,Gujarat
+C1198,Female,22,Kolkata,2023-12-05,Organic Search,No,West Bengal
+C1199,Female,41,Mumbai,2025-08-19,Google Ads,Yes,Maharashtra
+C1200,Female,20,Jaipur,2024-01-02,Instagram Ads,No,Rajasthan
+C1201,Male,29,Kolkata,2025-06-27,Organic Search,No,West Bengal
+C1202,Female,26,Delhi,2024-05-10,Organic Search,No,Delhi
+C1203,Female,34,Pune,2024-11-30,Organic Search,Yes,Maharashtra
+C1204,Male,26,Hyderabad,2024-04-02,Organic Search,No,Telangana
+C1205,Male,29,Hyderabad,2023-09-23,Instagram Ads,No,Telangana
+C1206,Female,30,Mumbai,2025-02-03,YouTube,Yes,Maharashtra
+C1207,Male,25,Chennai,2025-08-27,Email,No,Tamil Nadu
+C1208,Female,37,Bangalore,2023-09-21,Instagram Ads,Yes,Maharashtra
+C1209,Other,34,Delhi,2025-02-17,Google Ads,Yes,Delhi
+C1210,Male,31,Mumbai,2023-09-19,Google Ads,No,Maharashtra
+C1211,Male,28,Bhopal,2024-12-17,Email,Yes,Madhya Pradesh
+C1212,Other,40,Bengaluru,2025-02-28,Organic Search,No,Karnataka
+C1213,Female,30,Bengaluru,2024-03-25,Instagram Ads,Yes,Karnataka
+C1214,Male,29,Bengaluru,2025-01-06,Instagram Ads,No,Karnataka
+C1215,Female,33,Bangalore,2023-09-30,Organic Search,No,Uttar Pradesh
+C1216,Female,49,Chennai,2023-03-21,Instagram Ads,No,Tamil Nadu
+C1217,Female,19,Unknown,2023-04-07,Email,No,Uttar Pradesh
+C1218,Female,40,Bangalore,2024-03-23,YouTube,No,Karnataka
+C1219,Male,18,Mumbai,2025-06-21,Organic Search,No,Maharashtra
+C1220,Male,34,Chennai,2023-05-08,Instagram Ads,Yes,Tamil Nadu
+C1221,Female,48,Bengaluru,2024-03-31,Instagram Ads,No,Karnataka
+C1222,Male,37,Jaipur,2024-12-05,Google Ads,Yes,Rajasthan
+C1223,Female,34,Ujjain,2023-07-22,Google Ads,No,Madhya Pradesh
+C1224,Female,26,Hyderabad,2024-12-22,Organic Search,Yes,Telangana
+C1225,Male,32,Nagpur,2023-11-02,Email,No,Maharashtra
+C1226,Female,29,Chennai,2025-03-19,YouTube,No,Tamil Nadu
+C1227,Male,24,Bengaluru,2024-08-02,Google Ads,No,Karnataka
+C1228,Female,29,Hyderabad,2024-06-30,Google Ads,No,Telangana
+C1229,Male,34,Mumbai,2023-06-26,Google Ads,Yes,Maharashtra
+C1230,Female,32,Jaipur,2024-04-08,Instagram Ads,Yes,Rajasthan
+C1231,Female,24,Mumbai,2025-05-06,Organic Search,No,Maharashtra
+C1232,Male,18,Bengaluru,2023-01-20,Google Ads,No,Karnataka
+C1233,Female,36,Chennai,2025-01-28,Organic Search,Yes,Tamil Nadu
+C1234,Female,37,Mumbai,2024-05-07,Email,No,Maharashtra
+C1235,Female,34,Mumbai,2024-12-20,Instagram Ads,No,Maharashtra
+C1236,Female,42,Bangalore,2024-10-25,Instagram Ads,Yes,West Bengal
+C1237,Other,33,Mumbai,2024-03-08,Instagram Ads,No,Maharashtra
+C1238,Male,36,Hyderabad,2023-11-05,YouTube,Yes,Telangana
+C1239,Female,35,Bengaluru,2024-09-19,Organic Search,Yes,Karnataka
+C1240,Male,31,Delhi,2023-05-21,Organic Search,No,Delhi
+C1241,Female,27,Delhi,2024-08-07,Organic Search,Yes,Delhi
+C1242,Female,32,Ahmedabad,2023-04-05,Google Ads,No,Gujarat
+C1243,Male,27,Bhopal,2024-10-11,YouTube,No,Madhya Pradesh
+C1244,Male,25,Delhi,2024-09-20,Organic Search,No,Delhi
+C1245,Female,36,Bhopal,2023-03-26,YouTube,No,Madhya Pradesh
+C1246,Male,35,Pune,2025-01-27,Instagram Ads,No,Maharashtra
+C1247,Female,32,Pune,2024-02-20,Google Ads,No,Maharashtra
+C1248,Male,43,Kolkata,2025-02-25,Organic Search,No,West Bengal
+C1249,Female,31,Kolkata,2023-02-11,Google Ads,No,West Bengal
+C1250,Male,21,Jaipur,2023-06-29,Google Ads,No,Rajasthan
+C1251,Male,44,Hyderabad,2024-05-08,Google Ads,Yes,Telangana
+C1252,Female,38,Chennai,2023-07-08,Organic Search,No,Tamil Nadu
+C1253,Female,32,Bengaluru,2023-11-26,Email,No,Karnataka
+C1254,Male,50,Mumbai,2024-10-22,YouTube,No,Maharashtra
+C1255,Male,39,Kolkata,2023-05-25,Instagram Ads,No,West Bengal
+C1256,Female,32,Mumbai,2024-11-08,Google Ads,No,Maharashtra
+C1257,Female,48,Bengaluru,2023-04-14,Email,Yes,Karnataka
+C1258,Male,34,Mumbai,2023-06-25,Organic Search,No,Maharashtra
+C1259,Female,32,Delhi,2024-08-10,Email,No,Delhi
+C1260,Female,25,Pune,2025-03-04,Instagram Ads,Yes,Maharashtra
+C1261,Female,38,Pune,2023-06-20,Referral,Yes,Maharashtra
+C1262,Female,37,Hyderabad,2023-10-27,Organic Search,Yes,Telangana
+C1263,Female,32,Mumbai,2025-07-14,Instagram Ads,No,Maharashtra
+C1264,Male,24,Hyderabad,2025-09-16,Google Ads,No,Telangana
+C1265,Female,33,Bengaluru,2024-08-04,Google Ads,No,Karnataka
+C1266,Female,31,Unknown,2024-03-23,Email,Yes,Gujarat
+C1267,Female,19,Pune,2023-12-13,YouTube,No,Maharashtra
+C1268,Male,32,Bangalore,2024-09-04,Organic Search,No,Tamil Nadu
+C1269,Male,38,Hyderabad,2024-08-13,Instagram Ads,No,Telangana
+C1270,Female,18,Bangalore,2023-10-22,Instagram Ads,Yes,Maharashtra
+C1271,Male,34,Ahmedabad,2023-01-23,Google Ads,Yes,Gujarat
+C1272,Other,27,Chennai,2023-06-01,Google Ads,No,Tamil Nadu
+C1273,Male,45,Hyderabad,2025-08-16,Email,No,Telangana
+C1274,Female,27,Mumbai,2024-02-23,Referral,Yes,Maharashtra
+C1275,Female,39,Bhopal,2024-04-27,Organic Search,No,Madhya Pradesh
+C1276,Male,28,Bengaluru,2024-04-12,Instagram Ads,Yes,Karnataka
+C1277,Male,33,Delhi,2025-02-21,Google Ads,Yes,Delhi
+C1278,Female,39,Nagpur,2023-03-06,Instagram Ads,No,Maharashtra
+C1279,Female,27,Unknown,2023-03-24,Organic Search,No,West Bengal
+C1280,Male,42,Mumbai,2023-10-03,Instagram Ads,No,Maharashtra
+C1281,Female,22,Mumbai,2024-05-01,Instagram Ads,No,Maharashtra
+C1282,Female,35,Mumbai,2024-11-02,Organic Search,No,Maharashtra
+C1283,Male,41,Pune,2024-05-05,Referral,Yes,Maharashtra
+C1284,Male,39,Mumbai,2024-03-17,Instagram Ads,No,Maharashtra
+C1285,Male,51,Bhopal,2025-07-26,Google Ads,No,Madhya Pradesh
+C1286,Male,24,Bhopal,2023-06-11,Google Ads,No,Madhya Pradesh
+C1287,Male,32,Chennai,2024-07-25,Email,No,Tamil Nadu
+C1288,Male,22,Pune,2024-06-26,Organic Search,No,Maharashtra
+C1289,Female,39,Bengaluru,2024-04-18,Organic Search,Yes,Karnataka
+C1290,Male,37,Mumbai,2025-03-18,Instagram Ads,Yes,Maharashtra
+C1291,Female,33,Ahmedabad,2023-09-24,Instagram Ads,No,Gujarat
+C1292,Male,21,Mumbai,2025-08-11,Instagram Ads,No,Maharashtra
+C1293,Male,40,Mumbai,2023-11-28,Referral,Yes,Maharashtra
+C1294,Female,20,Bengaluru,2024-06-29,Organic Search,Yes,Karnataka
+C1295,Female,44,Mumbai,2024-06-04,Organic Search,No,Maharashtra
+C1296,Male,61,Hyderabad,2025-04-29,Instagram Ads,Yes,Telangana
+C1297,Male,36,Kolkata,2024-03-14,Referral,Yes,West Bengal
+C1298,Male,38,Bangalore,2023-10-12,Email,No,Rajasthan
+C1299,Female,27,Pune,2023-01-22,Referral,No,Maharashtra
+C1300,Male,18,Indore,2023-12-30,Google Ads,No,Madhya Pradesh
+C1301,Male,26,Unknown,2025-04-06,Referral,No,Telangana
+C1302,Male,21,Indore,2023-01-10,Referral,No,Madhya Pradesh
+C1303,Female,18,Chennai,2025-06-15,Organic Search,No,Tamil Nadu
+C1304,Female,49,Delhi,2024-06-26,Google Ads,Yes,Delhi
+C1305,Female,35,Bhopal,2023-05-21,Referral,Yes,Madhya Pradesh
+C1306,Female,36,Bengaluru,2023-10-30,Instagram Ads,No,Karnataka
+C1307,Male,29,Mumbai,2024-07-08,Google Ads,No,Maharashtra
+C1308,Male,30,Delhi,2023-11-12,Google Ads,No,Delhi
+C1309,Male,42,Bangalore,2023-04-19,Google Ads,Yes,Karnataka
+C1310,Female,32,Bengaluru,2024-10-27,Organic Search,No,Karnataka
+C1311,Female,37,Chennai,2024-11-03,Google Ads,No,Tamil Nadu
+C1312,Female,30,Ujjain,2023-04-29,Email,No,Madhya Pradesh
+C1313,Other,29,Bengaluru,2023-10-09,Organic Search,No,Karnataka
+C1314,Other,18,Chennai,2023-09-01,Instagram Ads,No,Tamil Nadu
+C1315,Female,18,Bengaluru,2024-10-21,Organic Search,No,Karnataka
+C1316,Male,29,Jaipur,2024-12-31,Organic Search,No,Rajasthan
+C1317,Male,33,Delhi,2024-12-27,YouTube,No,Delhi
+C1318,Male,19,Mumbai,2025-07-27,Google Ads,No,Maharashtra
+C1319,Female,32,Chennai,2025-02-07,Instagram Ads,No,Tamil Nadu
+C1320,Male,33,Kolkata,2023-11-17,Instagram Ads,Yes,West Bengal
+C1321,Female,18,Jaipur,2023-04-18,YouTube,Yes,Rajasthan
+C1322,Female,23,Pune,2024-09-06,Instagram Ads,No,Maharashtra
+C1323,Female,36,Bangalore,2025-07-05,Referral,No,Gujarat
+C1324,Male,36,Bengaluru,2025-09-02,Instagram Ads,No,Karnataka
+C1325,Male,20,Mumbai,2023-08-19,Organic Search,Yes,Maharashtra
+C1326,Male,34,Mumbai,2023-08-25,Referral,No,Maharashtra
+C1327,Female,32,Mumbai,2023-02-07,Organic Search,No,Maharashtra
+C1328,Female,40,Bengaluru,2023-05-22,Referral,No,Karnataka
+C1329,Female,31,Unknown,2024-07-08,Instagram Ads,Yes,Tamil Nadu
+C1330,Male,27,Bengaluru,2024-06-30,Referral,No,Karnataka
+C1331,Male,26,Chennai,2024-01-06,Referral,Yes,Tamil Nadu
+C1332,Male,32,Hyderabad,2023-11-06,Referral,No,Telangana
+C1333,Female,34,Kolkata,2025-04-09,Organic Search,Yes,West Bengal
+C1334,Female,38,Kolkata,2024-04-05,Referral,Yes,West Bengal
+C1335,Male,33,Bengaluru,2025-03-19,YouTube,Yes,Karnataka
+C1336,Female,40,Bengaluru,2025-08-21,Organic Search,No,Karnataka
+C1337,Male,33,Pune,2023-11-14,Instagram Ads,No,Maharashtra
+C1338,Female,40,Pune,2023-07-22,Email,No,Maharashtra
+C1339,Male,41,Bengaluru,2025-08-10,Organic Search,No,Karnataka
+C1340,Male,24,Bengaluru,2024-09-26,Google Ads,No,Karnataka
+C1341,Female,18,Kolkata,2023-10-18,Referral,No,West Bengal
+C1342,Male,47,Pune,2024-09-13,Organic Search,No,Maharashtra
+C1343,Male,35,Mumbai,2024-05-30,Google Ads,No,Maharashtra
+C1344,Male,18,Hyderabad,2025-06-24,Google Ads,No,Telangana
+C1345,Male,25,Lucknow,2023-09-13,Instagram Ads,No,Uttar Pradesh
+C1346,Female,40,Mumbai,2025-09-18,Email,No,Maharashtra
+C1347,Female,29,Indore,2025-07-25,Organic Search,Yes,Madhya Pradesh
+C1348,Female,27,Delhi,2023-06-30,Instagram Ads,No,Delhi
+C1349,Male,32,Chennai,2023-06-14,Email,Yes,Tamil Nadu
+C1350,Female,22,Hyderabad,2024-06-17,Organic Search,Yes,Telangana
+C1351,Male,24,Mumbai,2023-02-14,Email,No,Maharashtra
+C1352,Male,32,Lucknow,2023-10-26,Organic Search,No,Uttar Pradesh
+C1353,Male,36,Hyderabad,2024-03-11,Google Ads,No,Telangana
+C1354,Female,37,Bhopal,2025-08-27,Organic Search,Yes,Madhya Pradesh
+C1355,Female,41,Bengaluru,2025-09-19,Referral,No,Karnataka
+C1356,Female,32,Indore,2023-06-01,Email,No,Madhya Pradesh
+C1357,Female,37,Lucknow,2025-06-10,Email,No,Uttar Pradesh
+C1358,Female,29,Bangalore,2023-04-01,YouTube,No,Tamil Nadu
+C1359,Female,33,Delhi,2025-01-18,Referral,Yes,Delhi
+C1360,Female,33,Kolkata,2025-04-25,Referral,No,West Bengal
+C1361,Male,34,Chennai,2025-06-09,Google Ads,No,Tamil Nadu
+C1362,Male,40,Bhopal,2023-08-12,YouTube,No,Madhya Pradesh
+C1363,Male,38,Hyderabad,2025-06-12,Google Ads,No,Telangana
+C1364,Female,32,Delhi,2023-04-26,Email,No,Delhi
+C1365,Female,24,Mumbai,2024-06-02,Organic Search,No,Maharashtra
+C1366,Female,33,Unknown,2024-04-14,Google Ads,No,West Bengal
+C1367,Male,32,Nagpur,2023-11-12,Referral,Yes,Maharashtra
+C1368,Female,34,Mumbai,2023-01-23,Organic Search,Yes,Maharashtra
+C1369,Male,54,Ahmedabad,2025-02-11,Organic Search,No,Gujarat
+C1370,Male,27,Lucknow,2023-12-02,YouTube,No,Uttar Pradesh
+C1371,Male,36,Mumbai,2024-10-23,Instagram Ads,No,Maharashtra
+C1372,Male,43,Mumbai,2024-02-15,Organic Search,No,Maharashtra
+C1373,Female,33,Unknown,2024-01-09,Instagram Ads,No,West Bengal
+C1374,Male,55,Pune,2025-06-05,Instagram Ads,No,Maharashtra
+C1375,Female,28,Mumbai,2023-04-05,Google Ads,No,Maharashtra
+C1376,Male,35,Indore,2025-01-06,YouTube,No,Madhya Pradesh
+C1377,Male,24,Chennai,2025-01-16,YouTube,No,Tamil Nadu
+C1378,Female,28,Lucknow,2024-01-15,Google Ads,No,Uttar Pradesh
+C1379,Male,34,Ujjain,2023-09-20,Referral,No,Madhya Pradesh
+C1380,Other,40,Jaipur,2023-01-06,Instagram Ads,No,Rajasthan
+C1381,Female,35,Chennai,2025-07-25,Email,No,Tamil Nadu
+C1382,Female,45,Delhi,2025-08-05,Organic Search,No,Delhi
+C1383,Male,32,Chennai,2023-08-29,Organic Search,Yes,Tamil Nadu
+C1384,Male,29,Mumbai,2023-02-01,YouTube,No,Maharashtra
+C1385,Female,59,Kolkata,2023-05-03,Email,No,West Bengal
+C1386,Male,36,Mumbai,2023-03-09,Instagram Ads,Yes,Maharashtra
+C1387,Male,25,Unknown,2025-04-11,Referral,No,Tamil Nadu
+C1388,Male,25,Mumbai,2025-06-10,Instagram Ads,No,Maharashtra
+C1389,Female,23,Bengaluru,2023-06-03,Instagram Ads,No,Karnataka
+C1390,Female,41,Delhi,2025-01-16,Instagram Ads,No,Delhi
+C1391,Female,28,Pune,2023-06-29,Organic Search,No,Maharashtra
+C1392,Female,33,Bangalore,2024-01-03,Google Ads,Yes,Rajasthan
+C1393,Male,31,Mumbai,2024-08-22,Instagram Ads,No,Maharashtra
+C1394,Female,39,Indore,2024-12-20,Google Ads,No,Madhya Pradesh
+C1395,Male,24,Indore,2025-05-24,Organic Search,No,Madhya Pradesh
+C1396,Female,21,Bengaluru,2023-02-14,YouTube,No,Karnataka
+C1397,Male,34,Kolkata,2023-07-16,Google Ads,No,West Bengal
+C1398,Other,38,Hyderabad,2023-10-08,Email,Yes,Telangana
+C1399,Male,35,Delhi,2023-11-07,Organic Search,No,Delhi
+C1400,Male,24,Chennai,2025-09-25,Google Ads,Yes,Tamil Nadu
+C1401,Male,39,Mumbai,2025-02-16,Email,No,Maharashtra
+C1402,Male,25,Ujjain,2023-11-17,Instagram Ads,Yes,Madhya Pradesh
+C1403,Male,27,Lucknow,2025-08-29,Organic Search,No,Uttar Pradesh
+C1404,Female,23,Jaipur,2024-05-14,Instagram Ads,No,Rajasthan
+C1405,Male,45,Chennai,2024-05-15,Instagram Ads,No,Tamil Nadu
+C1406,Female,38,Chennai,2024-03-09,Instagram Ads,Yes,Tamil Nadu
+C1407,Male,38,Nagpur,2023-05-24,Instagram Ads,No,Maharashtra
+C1408,Female,44,Delhi,2025-07-23,Instagram Ads,No,Delhi
+C1409,Male,60,Mumbai,2023-01-14,Google Ads,No,Maharashtra
+C1410,Female,32,Chennai,2023-06-24,Organic Search,Yes,Tamil Nadu
+C1411,Female,25,Bengaluru,2023-08-18,Instagram Ads,No,Karnataka
+C1412,Male,26,Bengaluru,2023-10-07,Referral,No,Karnataka
+C1413,Female,23,Bangalore,2023-05-12,Organic Search,No,Maharashtra
+C1414,Male,21,Pune,2023-01-18,Organic Search,Yes,Maharashtra
+C1415,Male,29,Delhi,2024-11-08,Organic Search,No,Delhi
+C1416,Female,20,Delhi,2025-08-27,Organic Search,No,Delhi
+C1417,Female,35,Mumbai,2023-05-02,Google Ads,Yes,Maharashtra
+C1418,Male,33,Bangalore,2023-10-24,Organic Search,No,Karnataka
+C1419,Male,37,Ujjain,2024-05-21,Instagram Ads,No,Madhya Pradesh
+C1420,Female,37,Bangalore,2025-07-16,YouTube,No,Karnataka
+C1421,Female,38,Kolkata,2024-11-25,YouTube,No,West Bengal
+C1422,Other,28,Ahmedabad,2025-02-05,Organic Search,Yes,Gujarat
+C1423,Female,53,Bengaluru,2024-08-04,Instagram Ads,Yes,Karnataka
+C1424,Female,34,Jaipur,2024-02-22,Instagram Ads,No,Rajasthan
+C1425,Male,18,Kolkata,2023-07-19,Email,No,West Bengal
+C1426,Female,22,Chennai,2025-05-14,Email,No,Tamil Nadu
+C1427,Male,18,Mumbai,2025-03-15,Organic Search,Yes,Maharashtra
+C1428,Female,32,Mumbai,2023-01-26,Organic Search,Yes,Maharashtra
+C1429,Male,31,Bangalore,2024-12-16,Instagram Ads,Yes,Maharashtra
+C1430,Female,27,Jaipur,2023-03-26,Email,No,Rajasthan
+C1431,Female,52,Bhopal,2025-01-08,Email,No,Madhya Pradesh
+C1432,Female,32,Lucknow,2025-04-05,Organic Search,No,Uttar Pradesh
+C1433,Female,39,Mumbai,2023-05-12,Google Ads,No,Maharashtra
+C1434,Male,23,Jaipur,2024-03-09,Organic Search,Yes,Rajasthan
+C1435,Female,22,Hyderabad,2023-05-04,Referral,No,Telangana
+C1436,Male,32,Jaipur,2024-07-21,YouTube,Yes,Rajasthan
+C1437,Male,34,Mumbai,2025-07-16,Instagram Ads,No,Maharashtra
+C1438,Male,18,Bengaluru,2023-03-22,Organic Search,No,Karnataka
+C1439,Male,30,Ahmedabad,2024-02-02,Google Ads,No,Gujarat
+C1440,Male,32,Jaipur,2025-08-31,Instagram Ads,No,Rajasthan
+C1441,Female,30,Pune,2023-10-28,Email,No,Maharashtra
+C1442,Female,24,Bengaluru,2023-05-13,Instagram Ads,No,Karnataka
+C1443,Female,27,Bengaluru,2024-05-03,Email,Yes,Karnataka
+C1444,Male,30,Nagpur,2024-05-23,Instagram Ads,Yes,Maharashtra
+C1445,Male,33,Unknown,2024-10-24,Organic Search,No,Telangana
+C1446,Male,38,Hyderabad,2023-11-10,Instagram Ads,Yes,Telangana
+C1447,Female,43,Chennai,2025-08-13,Organic Search,Yes,Tamil Nadu
+C1448,Female,29,Hyderabad,2024-06-05,Instagram Ads,Yes,Telangana
+C1449,Male,27,Chennai,2023-10-14,Google Ads,Yes,Tamil Nadu
+C1450,Female,36,Hyderabad,2025-08-18,Organic Search,No,Telangana
+C1451,Male,38,Jaipur,2025-07-13,Organic Search,No,Rajasthan
+C1452,Male,28,Lucknow,2024-05-14,Organic Search,Yes,Uttar Pradesh
+C1453,Male,40,Bhopal,2023-01-25,Organic Search,No,Madhya Pradesh
+C1454,Male,42,Chennai,2024-08-19,Email,Yes,Tamil Nadu
+C1455,Female,32,Hyderabad,2024-07-09,YouTube,No,Telangana
+C1456,Female,50,Kolkata,2023-05-29,Organic Search,Yes,West Bengal
+C1457,Male,23,Indore,2024-09-25,Referral,No,Madhya Pradesh
+C1458,Female,32,Chennai,2025-04-20,Referral,No,Tamil Nadu
+C1459,Female,32,Kolkata,2023-04-16,YouTube,No,West Bengal
+C1460,Female,31,Ahmedabad,2024-12-24,Instagram Ads,Yes,Gujarat
+C1461,Female,26,Kolkata,2023-05-21,Instagram Ads,Yes,West Bengal
+C1462,Male,18,Ahmedabad,2025-01-18,Instagram Ads,Yes,Gujarat
+C1463,Female,33,Delhi,2024-02-24,Email,No,Delhi
+C1464,Male,24,Chennai,2023-01-07,Referral,Yes,Tamil Nadu
+C1465,Other,33,Pune,2025-08-24,Google Ads,No,Maharashtra
+C1466,Male,24,Mumbai,2023-06-15,Organic Search,No,Maharashtra
+C1467,Female,21,Indore,2024-08-19,Referral,No,Madhya Pradesh
+C1468,Male,34,Pune,2023-07-01,Email,No,Maharashtra
+C1469,Male,34,Mumbai,2025-07-22,Instagram Ads,Yes,Maharashtra
+C1470,Female,38,Jaipur,2025-01-08,Google Ads,No,Rajasthan
+C1471,Female,54,Unknown,2025-03-15,Instagram Ads,Yes,West Bengal
+C1472,Male,35,Unknown,2024-03-08,Google Ads,No,Gujarat
+C1473,Female,37,Bengaluru,2024-04-12,Google Ads,No,Karnataka
+C1474,Female,21,Indore,2024-09-26,Referral,Yes,Madhya Pradesh
+C1475,Male,19,Bangalore,2025-02-23,YouTube,No,Telangana
+C1476,Female,32,Pune,2025-04-26,Instagram Ads,Yes,Maharashtra
+C1477,Female,23,Mumbai,2023-01-18,Instagram Ads,Yes,Maharashtra
+C1478,Female,22,Pune,2024-10-25,Instagram Ads,No,Maharashtra
+C1479,Male,32,Kolkata,2023-04-20,Organic Search,No,West Bengal
+C1480,Male,31,Chennai,2023-10-15,Instagram Ads,No,Tamil Nadu
+C1481,Female,23,Chennai,2025-04-09,Organic Search,No,Tamil Nadu
+C1482,Female,29,Jaipur,2023-09-08,Instagram Ads,No,Rajasthan
+C1483,Female,44,Kolkata,2025-03-07,Organic Search,Yes,West Bengal
+C1484,Other,32,Bengaluru,2024-04-08,Instagram Ads,Yes,Karnataka
+C1485,Female,18,Bhopal,2023-08-21,Email,No,Madhya Pradesh
+C1486,Female,41,Kolkata,2023-12-01,Organic Search,Yes,West Bengal
+C1487,Female,32,Nagpur,2024-06-14,Google Ads,No,Maharashtra
+C1488,Female,26,Bangalore,2025-02-04,YouTube,Yes,Maharashtra
+C1489,Male,18,Lucknow,2024-08-29,Google Ads,Yes,Uttar Pradesh
+C1490,Male,25,Ahmedabad,2025-07-22,Organic Search,No,Gujarat
+C1491,Female,31,Pune,2025-05-17,Instagram Ads,No,Maharashtra
+C1492,Male,44,Delhi,2025-01-23,Google Ads,No,Delhi
+C1493,Male,22,Chennai,2024-08-26,Google Ads,No,Tamil Nadu
+C1494,Female,31,Ahmedabad,2023-10-17,Organic Search,Yes,Gujarat
+C1495,Male,39,Chennai,2024-02-17,Instagram Ads,No,Tamil Nadu
+C1496,Male,18,Indore,2023-04-29,Google Ads,Yes,Madhya Pradesh
+C1497,Female,42,Unknown,2024-01-10,Instagram Ads,No,Maharashtra
+C1498,Female,20,Bengaluru,2025-07-15,Google Ads,No,Karnataka
+C1499,Male,35,Chennai,2024-03-01,Organic Search,No,Tamil Nadu
+C1500,Male,34,Hyderabad,2023-04-24,Instagram Ads,Yes,Telangana
+C1501,Male,43,Mumbai,2024-10-13,Email,No,Maharashtra
+C1502,Female,38,Delhi,2025-08-20,Instagram Ads,No,Delhi
+C1503,Female,18,Indore,2025-05-17,Google Ads,No,Madhya Pradesh
+C1504,Male,24,Hyderabad,2023-10-02,Instagram Ads,Yes,Telangana
+C1505,Female,33,Mumbai,2024-03-29,Instagram Ads,No,Maharashtra
+C1506,Male,32,Mumbai,2024-06-15,YouTube,Yes,Maharashtra
+C1507,Male,37,Hyderabad,2023-09-05,Instagram Ads,No,Telangana
+C1508,Other,40,Delhi,2023-09-26,Organic Search,Yes,Delhi
+C1509,Male,32,Kolkata,2023-08-25,YouTube,Yes,West Bengal
+C1510,Male,30,Jaipur,2025-09-21,Referral,No,Rajasthan
+C1511,Male,18,Delhi,2025-01-16,Referral,Yes,Delhi
+C1512,Female,27,Pune,2025-04-20,Organic Search,No,Maharashtra
+C1513,Female,36,Delhi,2025-03-27,Organic Search,No,Delhi
+C1514,Other,21,Bengaluru,2025-08-17,Google Ads,No,Karnataka
+C1515,Male,38,Ujjain,2023-04-16,Organic Search,No,Madhya Pradesh
+C1516,Male,41,Chennai,2025-05-31,Organic Search,No,Tamil Nadu
+C1517,Female,33,Ujjain,2023-03-08,Referral,Yes,Madhya Pradesh
+C1518,Male,18,Delhi,2024-04-20,Instagram Ads,No,Delhi
+C1519,Female,19,Bengaluru,2024-08-17,Organic Search,Yes,Karnataka
+C1520,Female,51,Hyderabad,2023-12-24,Organic Search,Yes,Telangana
+C1521,Male,27,Bangalore,2023-05-27,Instagram Ads,Yes,Telangana
+C1522,Female,18,Nagpur,2023-07-12,Google Ads,No,Maharashtra
+C1523,Male,44,Mumbai,2025-04-04,Email,No,Maharashtra
+C1524,Male,32,Indore,2023-11-15,Organic Search,No,Madhya Pradesh
+C1525,Female,43,Indore,2023-11-07,Organic Search,No,Madhya Pradesh
+C1526,Female,35,Chennai,2025-07-12,Google Ads,No,Tamil Nadu
+C1527,Female,37,Bengaluru,2023-05-24,Instagram Ads,No,Karnataka
+C1528,Female,36,Chennai,2025-07-04,Google Ads,Yes,Tamil Nadu
+C1529,Other,39,Bengaluru,2025-07-09,YouTube,No,Karnataka
+C1530,Other,55,Jaipur,2024-08-21,Google Ads,No,Rajasthan
+C1531,Female,42,Chennai,2023-06-15,Instagram Ads,No,Tamil Nadu
+C1532,Male,18,Lucknow,2023-06-05,YouTube,Yes,Uttar Pradesh
+C1533,Female,32,Pune,2023-10-12,Organic Search,No,Maharashtra
+C1534,Other,32,Chennai,2024-07-31,YouTube,No,Tamil Nadu
+C1535,Male,44,Kolkata,2023-06-03,Google Ads,Yes,West Bengal
+C1536,Male,28,Chennai,2024-03-31,Google Ads,Yes,Tamil Nadu
+C1537,Male,44,Lucknow,2023-04-26,YouTube,No,Uttar Pradesh
+C1538,Male,41,Delhi,2024-06-24,Google Ads,No,Delhi
+C1539,Female,32,Nagpur,2023-01-22,Instagram Ads,No,Maharashtra
+C1540,Male,24,Unknown,2024-12-10,Instagram Ads,Yes,Rajasthan
+C1541,Female,27,Indore,2023-02-25,Google Ads,No,Madhya Pradesh
+C1542,Female,29,Hyderabad,2023-07-14,Google Ads,Yes,Telangana
+C1543,Female,27,Indore,2023-06-24,Organic Search,No,Madhya Pradesh
+C1544,Male,23,Bengaluru,2025-04-10,Referral,No,Karnataka
+C1545,Male,18,Ahmedabad,2023-02-23,Google Ads,No,Gujarat
+C1546,Female,28,Delhi,2024-03-05,Instagram Ads,Yes,Delhi
+C1547,Female,36,Bengaluru,2024-08-14,Organic Search,No,Karnataka
+C1548,Female,27,Hyderabad,2024-05-30,Instagram Ads,No,Telangana
+C1549,Female,51,Bengaluru,2024-11-11,Organic Search,No,Karnataka
+C1550,Male,32,Bengaluru,2025-03-14,Organic Search,Yes,Karnataka
+C1551,Female,45,Jaipur,2024-01-29,Instagram Ads,No,Rajasthan
+C1552,Male,35,Delhi,2025-04-08,Organic Search,No,Delhi
+C1553,Male,40,Ahmedabad,2023-11-14,Instagram Ads,Yes,Gujarat
+C1554,Female,35,Mumbai,2025-09-11,Google Ads,No,Maharashtra
+C1555,Male,46,Ahmedabad,2024-05-19,Instagram Ads,No,Gujarat
+C1556,Male,33,Jaipur,2025-01-06,YouTube,No,Rajasthan
+C1557,Male,37,Hyderabad,2025-05-25,YouTube,No,Telangana
+C1558,Male,36,Ahmedabad,2025-03-03,Google Ads,No,Gujarat
+C1559,Female,29,Lucknow,2025-05-01,YouTube,No,Uttar Pradesh
+C1560,Male,32,Jaipur,2024-06-20,Email,No,Rajasthan
+C1561,Female,54,Bengaluru,2023-02-13,Instagram Ads,Yes,Karnataka
+C1562,Female,29,Hyderabad,2024-05-08,Referral,No,Telangana
+C1563,Male,36,Ahmedabad,2023-07-01,Organic Search,No,Gujarat
+C1564,Male,45,Bengaluru,2025-06-08,Referral,No,Karnataka
+C1565,Female,43,Jaipur,2023-08-25,Google Ads,Yes,Rajasthan
+C1566,Female,32,Unknown,2023-08-17,Organic Search,No,Karnataka
+C1567,Female,18,Jaipur,2023-09-07,Instagram Ads,No,Rajasthan
+C1568,Female,37,Mumbai,2024-10-04,YouTube,No,Maharashtra
+C1569,Male,18,Mumbai,2024-07-25,Instagram Ads,No,Maharashtra
+C1570,Male,47,Nagpur,2025-08-06,Organic Search,No,Maharashtra
+C1571,Female,34,Indore,2024-02-21,Organic Search,No,Madhya Pradesh
+C1572,Male,42,Ujjain,2023-10-10,Google Ads,No,Madhya Pradesh
+C1573,Female,23,Bhopal,2023-02-19,Email,No,Madhya Pradesh
+C1574,Female,18,Bangalore,2023-01-08,Referral,No,Telangana
+C1575,Female,35,Bengaluru,2024-01-09,Instagram Ads,No,Karnataka
+C1576,Male,32,Mumbai,2025-07-14,Organic Search,Yes,Maharashtra
+C1577,Male,32,Chennai,2024-06-07,Organic Search,No,Tamil Nadu
+C1578,Male,33,Delhi,2025-06-12,Instagram Ads,Yes,Delhi
+C1579,Male,60,Bhopal,2023-04-12,Email,Yes,Madhya Pradesh
+C1580,Female,40,Mumbai,2023-04-04,Referral,No,Maharashtra
+C1581,Male,42,Delhi,2025-04-13,Instagram Ads,No,Delhi
+C1582,Male,40,Delhi,2023-04-17,Google Ads,No,Delhi
+C1583,Male,47,Delhi,2023-02-21,Instagram Ads,No,Delhi
+C1584,Male,30,Delhi,2024-02-09,Google Ads,No,Delhi
+C1585,Female,18,Bangalore,2025-07-13,Google Ads,No,West Bengal
+C1586,Male,30,Bengaluru,2024-11-20,Referral,No,Karnataka
+C1587,Other,40,Pune,2023-04-10,Google Ads,Yes,Maharashtra
+C1588,Male,22,Lucknow,2025-04-17,YouTube,No,Uttar Pradesh
+C1589,Female,32,Pune,2025-04-23,Instagram Ads,Yes,Maharashtra
+C1590,Male,25,Kolkata,2025-03-11,Organic Search,Yes,West Bengal
+C1591,Male,47,Bengaluru,2025-06-21,Organic Search,Yes,Karnataka
+C1592,Female,39,Delhi,2023-08-28,Google Ads,No,Delhi
+C1593,Other,39,Bengaluru,2025-09-06,Google Ads,No,Karnataka
+C1594,Female,38,Nagpur,2023-11-17,Google Ads,No,Maharashtra
+C1595,Male,32,Pune,2025-03-13,Referral,No,Maharashtra
+C1596,Male,34,Bengaluru,2024-08-02,Instagram Ads,No,Karnataka
+C1597,Female,20,Hyderabad,2025-02-18,Google Ads,Yes,Telangana
+C1598,Male,18,Indore,2024-09-19,Referral,No,Madhya Pradesh
+C1599,Female,34,Kolkata,2024-10-04,Instagram Ads,No,West Bengal
+C1600,Female,35,Chennai,2024-09-08,Instagram Ads,No,Tamil Nadu
+C1601,Female,32,Ujjain,2025-02-17,Organic Search,Yes,Madhya Pradesh
+C1602,Female,48,Kolkata,2025-01-09,Instagram Ads,Yes,West Bengal
+C1603,Female,48,Pune,2023-05-15,Referral,No,Maharashtra
+C1604,Male,22,Delhi,2025-04-06,YouTube,Yes,Delhi
+C1605,Male,32,Unknown,2024-06-20,Google Ads,No,Maharashtra
+C1606,Female,37,Nagpur,2023-11-20,Instagram Ads,No,Maharashtra
+C1607,Female,57,Bangalore,2024-05-29,Referral,Yes,Maharashtra
+C1608,Male,47,Bangalore,2025-08-24,Referral,Yes,Telangana
+C1609,Male,43,Pune,2025-05-07,Instagram Ads,No,Maharashtra
+C1610,Female,28,Mumbai,2025-04-13,Email,No,Maharashtra
+C1611,Female,23,Jaipur,2024-04-07,Organic Search,No,Rajasthan
+C1612,Female,40,Delhi,2025-02-23,Organic Search,Yes,Delhi
+C1613,Male,21,Jaipur,2024-01-21,Organic Search,Yes,Rajasthan
+C1614,Male,30,Chennai,2024-11-17,Organic Search,No,Tamil Nadu
+C1615,Female,31,Bengaluru,2024-10-01,Email,No,Karnataka
+C1616,Male,48,Mumbai,2023-09-07,Instagram Ads,Yes,Maharashtra
+C1617,Female,28,Jaipur,2023-09-24,Instagram Ads,No,Rajasthan
+C1618,Female,18,Delhi,2023-03-03,Instagram Ads,No,Delhi
+C1619,Male,37,Mumbai,2023-05-20,Instagram Ads,No,Maharashtra
+C1620,Male,25,Ahmedabad,2024-03-09,Instagram Ads,No,Gujarat
+C1621,Male,32,Bengaluru,2024-04-22,Organic Search,No,Karnataka
+C1622,Female,31,Bengaluru,2023-06-15,Google Ads,Yes,Karnataka
+C1623,Female,29,Delhi,2024-02-21,Organic Search,Yes,Delhi
+C1624,Male,40,Indore,2024-08-27,Referral,No,Madhya Pradesh
+C1625,Female,18,Bengaluru,2023-08-21,Organic Search,No,Karnataka
+C1626,Male,27,Delhi,2023-12-05,Referral,No,Delhi
+C1627,Male,39,Bengaluru,2024-01-03,Email,No,Karnataka
+C1628,Female,26,Delhi,2024-05-20,Organic Search,Yes,Delhi
+C1629,Male,18,Bengaluru,2024-01-02,Organic Search,Yes,Karnataka
+C1630,Male,39,Mumbai,2025-01-06,YouTube,Yes,Maharashtra
+C1631,Female,43,Delhi,2023-11-24,Instagram Ads,Yes,Delhi
+C1632,Male,32,Hyderabad,2024-03-09,Google Ads,No,Telangana
+C1633,Female,18,Unknown,2024-01-15,Organic Search,No,Madhya Pradesh
+C1634,Male,39,Mumbai,2023-07-02,Instagram Ads,No,Maharashtra
+C1635,Male,18,Delhi,2024-11-16,Google Ads,No,Delhi
+C1636,Male,35,Lucknow,2023-08-24,Email,No,Uttar Pradesh
+C1637,Male,23,Lucknow,2023-10-24,Instagram Ads,Yes,Uttar Pradesh
+C1638,Male,20,Kolkata,2025-03-03,Referral,No,West Bengal
+C1639,Male,28,Delhi,2025-08-06,Google Ads,No,Delhi
+C1640,Female,32,Hyderabad,2024-11-01,Organic Search,No,Telangana
+C1641,Male,26,Bangalore,2025-07-05,Instagram Ads,No,Delhi
+C1642,Male,38,Mumbai,2025-05-04,Organic Search,Yes,Maharashtra
+C1643,Male,28,Bengaluru,2024-04-25,Instagram Ads,Yes,Karnataka
+C1644,Male,42,Pune,2025-02-09,Google Ads,Yes,Maharashtra
+C1645,Male,35,Bengaluru,2023-11-25,Instagram Ads,No,Karnataka
+C1646,Female,25,Pune,2024-04-05,Organic Search,Yes,Maharashtra
+C1647,Male,23,Bengaluru,2024-06-19,Referral,Yes,Karnataka
+C1648,Female,18,Bengaluru,2025-08-18,Google Ads,Yes,Karnataka
+C1649,Female,35,Unknown,2025-04-28,Google Ads,No,Rajasthan
+C1650,Male,28,Ujjain,2024-05-04,Google Ads,No,Madhya Pradesh
+C1651,Male,32,Bangalore,2024-10-14,Organic Search,No,Karnataka
+C1652,Male,27,Pune,2023-07-22,Referral,No,Maharashtra
+C1653,Female,23,Bengaluru,2025-03-15,Instagram Ads,Yes,Karnataka
+C1654,Male,48,Mumbai,2024-07-07,Instagram Ads,No,Maharashtra
+C1655,Female,18,Ahmedabad,2024-06-16,Organic Search,Yes,Gujarat
+C1656,Female,18,Delhi,2025-02-05,Google Ads,Yes,Delhi
+C1657,Female,43,Hyderabad,2024-09-24,Google Ads,No,Telangana
+C1658,Female,46,Hyderabad,2023-03-14,Instagram Ads,Yes,Telangana
+C1659,Other,25,Delhi,2023-10-16,Email,Yes,Delhi
+C1660,Male,26,Mumbai,2023-06-26,Email,No,Maharashtra
+C1661,Male,38,Bengaluru,2025-01-04,Organic Search,No,Karnataka
+C1662,Male,18,Bhopal,2023-02-05,Referral,Yes,Madhya Pradesh
+C1663,Female,18,Pune,2023-07-22,Instagram Ads,No,Maharashtra
+C1664,Female,29,Bengaluru,2024-08-20,YouTube,No,Karnataka
+C1665,Female,47,Mumbai,2024-11-25,Organic Search,Yes,Maharashtra
+C1666,Male,28,Pune,2024-05-18,Instagram Ads,Yes,Maharashtra
+C1667,Other,33,Mumbai,2025-05-10,Instagram Ads,No,Maharashtra
+C1668,Female,43,Chennai,2025-07-07,Instagram Ads,No,Tamil Nadu
+C1669,Female,53,Ahmedabad,2023-05-13,Referral,No,Gujarat
+C1670,Other,26,Hyderabad,2025-08-10,Google Ads,No,Telangana
+C1671,Male,32,Bengaluru,2024-09-06,Organic Search,Yes,Karnataka
+C1672,Male,50,Mumbai,2024-09-28,Google Ads,No,Maharashtra
+C1673,Female,18,Mumbai,2023-04-06,Email,No,Maharashtra
+C1674,Male,42,Hyderabad,2024-09-13,Email,Yes,Telangana
+C1675,Male,22,Ujjain,2024-12-26,Google Ads,No,Madhya Pradesh
+C1676,Male,33,Delhi,2024-08-03,Instagram Ads,Yes,Delhi
+C1677,Male,30,Pune,2023-03-26,Organic Search,No,Maharashtra
+C1678,Female,22,Unknown,2024-06-07,Email,No,West Bengal
+C1679,Female,22,Mumbai,2025-07-24,Referral,No,Maharashtra
+C1680,Male,35,Delhi,2024-12-24,Google Ads,No,Delhi
+C1681,Male,42,Bengaluru,2023-05-18,Email,No,Karnataka
+C1682,Male,31,Kolkata,2025-08-17,Organic Search,Yes,West Bengal
+C1683,Female,33,Hyderabad,2025-08-16,Referral,No,Telangana
+C1684,Female,38,Ahmedabad,2023-06-19,Organic Search,No,Gujarat
+C1685,Female,22,Indore,2025-03-11,Organic Search,Yes,Madhya Pradesh
+C1686,Male,39,Ahmedabad,2024-02-11,Instagram Ads,No,Gujarat
+C1687,Male,32,Nagpur,2024-08-16,Instagram Ads,Yes,Maharashtra
+C1688,Male,58,Ahmedabad,2024-03-21,YouTube,No,Gujarat
+C1689,Female,28,Indore,2025-02-21,Instagram Ads,No,Madhya Pradesh
+C1690,Male,27,Bangalore,2025-09-23,Email,No,Madhya Pradesh
+C1691,Female,40,Ahmedabad,2025-03-06,Referral,No,Gujarat
+C1692,Female,40,Jaipur,2025-07-20,Google Ads,Yes,Rajasthan
+C1693,Male,27,Bhopal,2025-08-04,YouTube,No,Madhya Pradesh
+C1694,Male,28,Hyderabad,2023-04-01,Instagram Ads,Yes,Telangana
+C1695,Male,37,Pune,2023-09-11,Instagram Ads,Yes,Maharashtra
+C1696,Male,24,Chennai,2024-12-22,Organic Search,No,Tamil Nadu
+C1697,Male,28,Indore,2024-08-13,Instagram Ads,No,Madhya Pradesh
+C1698,Female,33,Hyderabad,2023-02-20,Email,No,Telangana
+C1699,Male,42,Jaipur,2023-04-06,Google Ads,Yes,Rajasthan
+C1700,Male,26,Jaipur,2024-06-04,Instagram Ads,No,Rajasthan
+C1701,Female,18,Nagpur,2024-09-08,Organic Search,Yes,Maharashtra
+C1702,Female,18,Delhi,2023-06-17,Google Ads,Yes,Delhi
+C1703,Male,19,Bangalore,2023-06-21,Referral,No,West Bengal
+C1704,Female,19,Ahmedabad,2023-05-10,Instagram Ads,Yes,Gujarat
+C1705,Female,30,Bhopal,2024-07-18,Referral,Yes,Madhya Pradesh
+C1706,Female,20,Lucknow,2023-01-08,Google Ads,No,Uttar Pradesh
+C1707,Female,25,Bangalore,2024-07-26,Referral,No,Maharashtra
+C1708,Male,24,Pune,2024-04-20,Instagram Ads,Yes,Maharashtra
+C1709,Female,28,Delhi,2024-04-10,Google Ads,No,Delhi
+C1710,Male,45,Nagpur,2024-11-10,Organic Search,Yes,Maharashtra
+C1711,Female,39,Delhi,2024-06-06,Instagram Ads,No,Delhi
+C1712,Female,32,Ahmedabad,2024-12-28,Referral,Yes,Gujarat
+C1713,Male,27,Jaipur,2025-02-02,Google Ads,Yes,Rajasthan
+C1714,Male,28,Hyderabad,2025-07-09,Organic Search,No,Telangana
+C1715,Female,35,Delhi,2025-03-10,Email,Yes,Delhi
+C1716,Female,38,Delhi,2024-06-01,Organic Search,Yes,Delhi
+C1717,Male,23,Indore,2024-05-07,Google Ads,Yes,Madhya Pradesh
+C1718,Female,32,Chennai,2023-08-24,YouTube,No,Tamil Nadu
+C1719,Female,18,Mumbai,2024-08-22,Google Ads,No,Maharashtra
+C1720,Female,34,Unknown,2023-05-20,Email,No,West Bengal
+C1721,Male,40,Delhi,2025-07-20,Google Ads,No,Delhi
+C1722,Male,29,Ujjain,2025-04-25,Referral,No,Madhya Pradesh
+C1723,Female,50,Bengaluru,2023-04-30,Google Ads,No,Karnataka
+C1724,Male,23,Delhi,2025-02-24,Referral,No,Delhi
+C1725,Female,34,Mumbai,2023-04-28,Organic Search,No,Maharashtra
+C1726,Male,32,Chennai,2024-12-22,Referral,No,Tamil Nadu
+C1727,Female,31,Hyderabad,2023-03-29,Organic Search,No,Telangana
+C1728,Male,31,Ahmedabad,2024-05-03,YouTube,Yes,Gujarat
+C1729,Male,33,Hyderabad,2024-10-19,Organic Search,No,Telangana
+C1730,Female,40,Bengaluru,2024-12-29,Organic Search,Yes,Karnataka
+C1731,Female,46,Delhi,2024-02-23,Email,No,Delhi
+C1732,Female,32,Bengaluru,2025-07-10,Organic Search,Yes,Karnataka
+C1733,Female,40,Lucknow,2025-02-13,Instagram Ads,Yes,Uttar Pradesh
+C1734,Female,25,Delhi,2023-07-28,Referral,No,Delhi
+C1735,Female,40,Nagpur,2024-11-02,Organic Search,No,Maharashtra
+C1736,Male,24,Bengaluru,2024-12-31,Organic Search,No,Karnataka
+C1737,Female,43,Mumbai,2023-11-30,Google Ads,No,Maharashtra
+C1738,Female,54,Delhi,2025-01-08,Organic Search,No,Delhi
+C1739,Male,32,Mumbai,2025-06-17,Organic Search,No,Maharashtra
+C1740,Male,18,Jaipur,2025-03-28,Organic Search,No,Rajasthan
+C1741,Female,27,Unknown,2025-02-01,Instagram Ads,No,Tamil Nadu
+C1742,Female,44,Bengaluru,2024-09-26,Instagram Ads,No,Karnataka
+C1743,Female,38,Kolkata,2023-09-28,Organic Search,No,West Bengal
+C1744,Other,34,Pune,2025-03-06,Google Ads,No,Maharashtra
+C1745,Female,42,Bhopal,2023-12-31,Google Ads,No,Madhya Pradesh
+C1746,Male,37,Nagpur,2024-06-16,Organic Search,No,Maharashtra
+C1747,Male,44,Kolkata,2023-11-11,Instagram Ads,No,West Bengal
+C1748,Male,41,Jaipur,2023-11-10,Email,No,Rajasthan
+C1749,Male,47,Jaipur,2023-06-07,Google Ads,No,Rajasthan
+C1750,Female,36,Chennai,2025-08-19,Instagram Ads,No,Tamil Nadu
+C1751,Female,41,Kolkata,2023-05-28,Instagram Ads,No,West Bengal
+C1752,Male,29,Mumbai,2023-03-28,Organic Search,No,Maharashtra
+C1753,Male,26,Ahmedabad,2025-07-25,Email,No,Gujarat
+C1754,Female,49,Nagpur,2024-07-09,YouTube,No,Maharashtra
+C1755,Male,34,Mumbai,2024-03-13,YouTube,Yes,Maharashtra
+C1756,Female,40,Indore,2025-01-07,Organic Search,No,Madhya Pradesh
+C1757,Male,33,Unknown,2024-01-19,Instagram Ads,No,Madhya Pradesh
+C1758,Female,26,Delhi,2023-05-08,Organic Search,No,Delhi
+C1759,Male,32,Chennai,2024-12-30,Instagram Ads,Yes,Tamil Nadu
+C1760,Female,46,Lucknow,2023-06-25,Instagram Ads,No,Uttar Pradesh
+C1761,Male,38,Nagpur,2024-07-06,Google Ads,No,Maharashtra
+C1762,Female,32,Mumbai,2025-08-07,Organic Search,Yes,Maharashtra
+C1763,Male,30,Bengaluru,2025-07-25,YouTube,No,Karnataka
+C1764,Male,50,Kolkata,2023-12-27,Organic Search,No,West Bengal
+C1765,Female,30,Delhi,2025-02-19,Organic Search,No,Delhi
+C1766,Male,18,Bengaluru,2024-09-04,Email,Yes,Karnataka
+C1767,Male,51,Unknown,2024-04-24,Referral,Yes,Maharashtra
+C1768,Male,39,Delhi,2023-05-20,Instagram Ads,No,Delhi
+C1769,Male,31,Chennai,2024-01-12,Google Ads,Yes,Tamil Nadu
+C1770,Male,28,Kolkata,2024-10-13,Organic Search,No,West Bengal
+C1771,Female,43,Pune,2025-09-13,Organic Search,No,Maharashtra
+C1772,Male,27,Ahmedabad,2023-01-05,Google Ads,Yes,Gujarat
+C1773,Female,43,Hyderabad,2024-12-18,Instagram Ads,No,Telangana
+C1774,Other,37,Bengaluru,2025-04-26,Google Ads,No,Karnataka
+C1775,Male,34,Mumbai,2025-08-09,Organic Search,No,Maharashtra
+C1776,Female,33,Bangalore,2024-02-28,Google Ads,No,Delhi
+C1777,Female,30,Bengaluru,2023-04-29,Referral,No,Karnataka
+C1778,Female,42,Delhi,2023-09-28,Organic Search,Yes,Delhi
+C1779,Male,23,Mumbai,2025-04-30,Organic Search,Yes,Maharashtra
+C1780,Male,18,Delhi,2025-05-27,Instagram Ads,No,Delhi
+C1781,Male,38,Kolkata,2024-09-29,Referral,No,West Bengal
+C1782,Female,38,Pune,2023-05-03,Google Ads,Yes,Maharashtra
+C1783,Other,37,Bhopal,2023-05-02,Referral,Yes,Madhya Pradesh
+C1784,Female,36,Jaipur,2024-04-23,Instagram Ads,No,Rajasthan
+C1785,Male,32,Chennai,2024-08-11,Organic Search,Yes,Tamil Nadu
+C1786,Female,40,Bangalore,2023-02-02,Google Ads,No,Maharashtra
+C1787,Male,32,Chennai,2024-11-17,Organic Search,No,Tamil Nadu
+C1788,Female,27,Mumbai,2024-06-28,Referral,No,Maharashtra
+C1789,Male,32,Hyderabad,2023-01-13,Organic Search,Yes,Telangana
+C1790,Female,32,Bengaluru,2023-04-06,Instagram Ads,Yes,Karnataka
+C1791,Female,18,Unknown,2024-03-30,Google Ads,No,Telangana
+C1792,Male,37,Bengaluru,2024-12-23,Google Ads,No,Karnataka
+C1793,Male,18,Kolkata,2025-04-05,Google Ads,Yes,West Bengal
+C1794,Female,31,Indore,2024-03-07,Instagram Ads,No,Madhya Pradesh
+C1795,Male,28,Ahmedabad,2023-10-23,YouTube,No,Gujarat
+C1796,Female,18,Pune,2025-08-26,Email,Yes,Maharashtra
+C1797,Female,36,Chennai,2024-04-03,Email,No,Tamil Nadu
+C1798,Female,28,Mumbai,2023-11-12,Google Ads,Yes,Maharashtra
+C1799,Male,18,Ahmedabad,2024-03-18,Google Ads,No,Gujarat
+C1800,Male,40,Chennai,2023-01-13,Google Ads,Yes,Tamil Nadu
+C1801,Male,46,Bengaluru,2023-10-29,Instagram Ads,No,Karnataka
+C1802,Female,47,Bengaluru,2024-05-30,Instagram Ads,No,Karnataka
+C1803,Male,32,Bhopal,2025-07-07,Google Ads,No,Madhya Pradesh
+C1804,Male,32,Pune,2025-01-08,Organic Search,No,Maharashtra
+C1805,Male,45,Hyderabad,2025-02-20,Organic Search,No,Telangana
+C1806,Female,49,Pune,2024-06-28,Email,No,Maharashtra
+C1807,Male,43,Hyderabad,2023-04-21,Organic Search,No,Telangana
+C1808,Female,23,Hyderabad,2024-01-26,Google Ads,Yes,Telangana
+C1809,Female,34,Bengaluru,2025-09-24,Google Ads,No,Karnataka
+C1810,Female,36,Hyderabad,2023-02-14,Organic Search,Yes,Telangana
+C1811,Other,18,Kolkata,2025-05-29,Email,No,West Bengal
+C1812,Female,32,Mumbai,2024-11-15,Organic Search,No,Maharashtra
+C1813,Female,55,Jaipur,2023-10-11,Email,No,Rajasthan
+C1814,Male,38,Bengaluru,2025-02-16,Referral,No,Karnataka
+C1815,Female,32,Kolkata,2025-04-16,Organic Search,No,West Bengal
+C1816,Female,34,Unknown,2023-02-13,Organic Search,Yes,Maharashtra
+C1817,Female,31,Kolkata,2023-04-17,Instagram Ads,Yes,West Bengal
+C1818,Female,36,Pune,2024-10-27,Instagram Ads,No,Maharashtra
+C1819,Other,24,Bhopal,2025-09-26,Organic Search,Yes,Madhya Pradesh
+C1820,Female,22,Chennai,2023-01-24,YouTube,Yes,Tamil Nadu
+C1821,Female,45,Ahmedabad,2024-10-27,Organic Search,No,Gujarat
+C1822,Male,46,Kolkata,2023-05-17,Email,No,West Bengal
+C1823,Male,32,Delhi,2024-10-12,Organic Search,No,Delhi
+C1824,Male,42,Bengaluru,2024-09-15,YouTube,No,Karnataka
+C1825,Male,31,Hyderabad,2023-04-01,Organic Search,No,Telangana
+C1826,Male,35,Bengaluru,2024-11-11,Instagram Ads,Yes,Karnataka
+C1827,Male,37,Bengaluru,2025-06-16,Google Ads,No,Karnataka
+C1828,Female,42,Bengaluru,2025-05-13,Organic Search,No,Karnataka
+C1829,Male,33,Pune,2023-01-29,Email,No,Maharashtra
+C1830,Female,46,Delhi,2023-09-03,Instagram Ads,No,Delhi
+C1831,Female,32,Jaipur,2023-08-29,Google Ads,No,Rajasthan
+C1832,Male,38,Hyderabad,2024-03-29,Google Ads,Yes,Telangana
+C1833,Male,24,Kolkata,2023-05-24,Google Ads,No,West Bengal
+C1834,Male,54,Mumbai,2025-05-04,Organic Search,Yes,Maharashtra
+C1835,Other,37,Hyderabad,2025-02-15,Organic Search,No,Telangana
+C1836,Male,39,Mumbai,2025-03-19,Organic Search,Yes,Maharashtra
+C1837,Female,18,Kolkata,2023-07-18,Instagram Ads,Yes,West Bengal
+C1838,Female,24,Bengaluru,2023-01-15,Organic Search,No,Karnataka
+C1839,Other,44,Bhopal,2025-06-29,YouTube,No,Madhya Pradesh
+C1840,Male,35,Bengaluru,2023-10-16,Google Ads,No,Karnataka
+C1841,Male,18,Chennai,2024-10-18,Google Ads,Yes,Tamil Nadu
+C1842,Male,42,Delhi,2025-06-28,Instagram Ads,No,Delhi
+C1843,Male,27,Pune,2023-02-06,Instagram Ads,Yes,Maharashtra
+C1844,Male,46,Hyderabad,2023-01-06,Google Ads,Yes,Telangana
+C1845,Female,31,Bengaluru,2023-01-06,Instagram Ads,No,Karnataka
+C1846,Female,34,Delhi,2023-06-06,Instagram Ads,Yes,Delhi
+C1847,Female,44,Mumbai,2023-02-21,Instagram Ads,No,Maharashtra
+C1848,Female,23,Unknown,2025-03-30,Google Ads,Yes,Maharashtra
+C1849,Male,22,Nagpur,2024-08-28,YouTube,Yes,Maharashtra
+C1850,Female,30,Unknown,2025-09-07,Organic Search,No,Telangana
+C1851,Female,40,Mumbai,2025-03-12,Google Ads,Yes,Maharashtra
+C1852,Female,19,Bhopal,2025-08-21,Organic Search,No,Madhya Pradesh
+C1853,Female,18,Mumbai,2023-08-27,Instagram Ads,No,Maharashtra
+C1854,Male,40,Hyderabad,2023-10-15,Referral,Yes,Telangana
+C1855,Male,26,Bangalore,2025-04-29,Organic Search,No,West Bengal
+C1856,Male,28,Lucknow,2023-09-02,Google Ads,Yes,Uttar Pradesh
+C1857,Male,18,Kolkata,2023-02-27,Instagram Ads,No,West Bengal
+C1858,Female,25,Hyderabad,2024-10-31,Organic Search,Yes,Telangana
+C1859,Male,32,Nagpur,2025-03-11,YouTube,No,Maharashtra
+C1860,Female,41,Unknown,2025-08-26,Instagram Ads,No,Maharashtra
+C1861,Female,24,Nagpur,2025-07-16,Referral,No,Maharashtra
+C1862,Male,49,Indore,2023-05-01,Instagram Ads,No,Madhya Pradesh
+C1863,Male,25,Lucknow,2025-02-11,YouTube,No,Uttar Pradesh
+C1864,Female,25,Delhi,2025-04-26,Instagram Ads,No,Delhi
+C1865,Female,47,Delhi,2024-11-29,Instagram Ads,No,Delhi
+C1866,Male,34,Kolkata,2025-03-30,Referral,No,West Bengal
+C1867,Male,26,Chennai,2025-04-17,Instagram Ads,No,Tamil Nadu
+C1868,Female,32,Chennai,2024-03-22,Instagram Ads,No,Tamil Nadu
+C1869,Male,46,Lucknow,2023-02-10,YouTube,Yes,Uttar Pradesh
+C1870,Female,47,Pune,2024-04-01,Google Ads,No,Maharashtra
+C1871,Male,24,Bengaluru,2023-07-21,Referral,No,Karnataka
+C1872,Male,32,Hyderabad,2023-04-24,Google Ads,No,Telangana
+C1873,Female,33,Mumbai,2023-05-05,Email,Yes,Maharashtra
+C1874,Female,22,Delhi,2024-11-28,Email,No,Delhi
+C1875,Female,31,Delhi,2024-05-19,Google Ads,Yes,Delhi
+C1876,Male,32,Jaipur,2024-06-23,Instagram Ads,No,Rajasthan
+C1877,Other,43,Kolkata,2025-01-15,Organic Search,No,West Bengal
+C1878,Female,44,Chennai,2024-07-02,Google Ads,Yes,Tamil Nadu
+C1879,Male,29,Bengaluru,2024-09-22,Email,No,Karnataka
+C1880,Male,30,Kolkata,2023-03-28,Instagram Ads,Yes,West Bengal
+C1881,Male,39,Jaipur,2025-05-01,Organic Search,No,Rajasthan
+C1882,Female,26,Ujjain,2024-03-24,Instagram Ads,No,Madhya Pradesh
+C1883,Male,38,Chennai,2023-06-05,Google Ads,No,Tamil Nadu
+C1884,Female,31,Jaipur,2025-03-24,Email,No,Rajasthan
+C1885,Male,22,Chennai,2025-01-04,Organic Search,Yes,Tamil Nadu
+C1886,Other,22,Hyderabad,2023-02-23,Google Ads,No,Telangana
+C1887,Male,46,Indore,2023-07-13,Referral,No,Madhya Pradesh
+C1888,Female,30,Bengaluru,2023-01-16,YouTube,Yes,Karnataka
+C1889,Male,48,Bengaluru,2023-09-28,Organic Search,No,Karnataka
+C1890,Male,32,Bengaluru,2023-04-10,YouTube,No,Karnataka
+C1891,Female,35,Chennai,2024-12-10,Google Ads,No,Tamil Nadu
+C1892,Female,56,Chennai,2024-06-06,Referral,No,Tamil Nadu
+C1893,Female,21,Kolkata,2025-09-07,Organic Search,No,West Bengal
+C1894,Male,32,Hyderabad,2025-01-19,Google Ads,No,Telangana
+C1895,Female,45,Delhi,2024-09-03,Google Ads,Yes,Delhi
+C1896,Female,24,Unknown,2024-05-24,Instagram Ads,No,Madhya Pradesh
+C1897,Female,32,Bengaluru,2023-02-24,Instagram Ads,No,Karnataka
+C1898,Male,26,Lucknow,2023-03-12,Google Ads,Yes,Uttar Pradesh
+C1899,Female,35,Delhi,2024-09-08,Google Ads,No,Delhi
+C1900,Female,22,Chennai,2023-01-05,Organic Search,Yes,Tamil Nadu
+C1901,Female,30,Chennai,2023-02-12,Instagram Ads,No,Tamil Nadu
+C1902,Male,36,Jaipur,2023-08-08,Organic Search,No,Rajasthan
+C1903,Male,22,Mumbai,2025-06-03,YouTube,No,Maharashtra
+C1904,Female,32,Lucknow,2024-04-03,YouTube,Yes,Uttar Pradesh
+C1905,Female,29,Chennai,2024-12-10,Instagram Ads,No,Tamil Nadu
+C1906,Female,18,Pune,2024-02-16,Organic Search,No,Maharashtra
+C1907,Male,28,Unknown,2023-06-23,Organic Search,No,Tamil Nadu
+C1908,Male,33,Mumbai,2024-01-07,Google Ads,No,Maharashtra
+C1909,Female,28,Chennai,2023-04-02,Email,No,Tamil Nadu
+C1910,Male,29,Delhi,2025-02-09,Google Ads,No,Delhi
+C1911,Male,32,Unknown,2023-07-03,Organic Search,No,Karnataka
+C1912,Female,25,Pune,2024-01-12,Organic Search,No,Maharashtra
+C1913,Female,39,Chennai,2025-09-07,Organic Search,Yes,Tamil Nadu
+C1914,Female,46,Unknown,2024-08-14,Email,No,Maharashtra
+C1915,Male,27,Mumbai,2024-04-03,Google Ads,No,Maharashtra
+C1916,Male,37,Delhi,2024-06-27,Google Ads,No,Delhi
+C1917,Female,30,Delhi,2025-02-23,Instagram Ads,No,Delhi
+C1918,Male,36,Pune,2023-09-12,YouTube,No,Maharashtra
+C1919,Male,48,Delhi,2024-09-28,Instagram Ads,Yes,Delhi
+C1920,Male,37,Ujjain,2025-05-22,Email,No,Madhya Pradesh
+C1921,Female,32,Delhi,2024-07-26,Email,No,Delhi
+C1922,Female,37,Mumbai,2024-03-22,Google Ads,No,Maharashtra
+C1923,Female,32,Ujjain,2023-05-26,Email,No,Madhya Pradesh
+C1924,Female,30,Bengaluru,2023-09-06,Instagram Ads,No,Karnataka
+C1925,Male,42,Hyderabad,2025-08-04,Google Ads,No,Telangana
+C1926,Male,25,Bhopal,2024-06-25,Organic Search,No,Madhya Pradesh
+C1927,Male,18,Bhopal,2023-10-29,Google Ads,No,Madhya Pradesh
+C1928,Male,33,Kolkata,2024-02-23,Organic Search,No,West Bengal
+C1929,Male,18,Mumbai,2024-08-01,Organic Search,Yes,Maharashtra
+C1930,Male,30,Pune,2024-06-21,Organic Search,No,Maharashtra
+C1931,Male,45,Nagpur,2024-11-30,Instagram Ads,No,Maharashtra
+C1932,Female,18,Bhopal,2023-09-15,Google Ads,No,Madhya Pradesh
+C1933,Female,19,Mumbai,2024-10-11,Instagram Ads,No,Maharashtra
+C1934,Male,32,Bengaluru,2024-03-18,Instagram Ads,No,Karnataka
+C1935,Female,31,Bengaluru,2025-07-29,YouTube,No,Karnataka
+C1936,Female,28,Mumbai,2023-06-07,YouTube,No,Maharashtra
+C1937,Female,46,Kolkata,2023-05-29,Organic Search,No,West Bengal
+C1938,Female,42,Bengaluru,2024-04-06,Instagram Ads,Yes,Karnataka
+C1939,Male,37,Bengaluru,2024-05-23,Google Ads,No,Karnataka
+C1940,Female,33,Mumbai,2024-11-21,Referral,No,Maharashtra
+C1941,Male,36,Chennai,2024-02-09,Instagram Ads,No,Tamil Nadu
+C1942,Male,23,Delhi,2025-07-02,Referral,Yes,Delhi
+C1943,Male,41,Hyderabad,2024-04-19,Organic Search,No,Telangana
+C1944,Male,21,Delhi,2023-05-10,Instagram Ads,No,Delhi
+C1945,Male,40,Bhopal,2023-04-30,Referral,No,Madhya Pradesh
+C1946,Male,44,Bangalore,2025-08-31,Google Ads,Yes,Delhi
+C1947,Female,34,Bangalore,2023-05-15,Email,No,Tamil Nadu
+C1948,Male,30,Bangalore,2025-08-05,Organic Search,No,Delhi
+C1949,Male,36,Bangalore,2023-10-06,Organic Search,Yes,Maharashtra
+C1950,Male,32,Unknown,2023-04-04,Organic Search,Yes,Delhi
+C1951,Male,35,Mumbai,2023-11-01,Organic Search,Yes,Maharashtra
+C1952,Male,31,Mumbai,2024-09-06,Organic Search,No,Maharashtra
+C1953,Male,31,Chennai,2024-03-03,Google Ads,Yes,Tamil Nadu
+C1954,Male,39,Kolkata,2025-02-24,Google Ads,No,West Bengal
+C1955,Female,31,Mumbai,2024-09-02,Google Ads,No,Maharashtra
+C1956,Female,21,Hyderabad,2024-02-05,Instagram Ads,No,Telangana
+C1957,Female,31,Pune,2024-09-26,Organic Search,No,Maharashtra
+C1958,Female,33,Delhi,2025-08-29,Referral,No,Delhi
+C1959,Female,33,Bengaluru,2024-02-16,Organic Search,Yes,Karnataka
+C1960,Other,34,Mumbai,2023-06-03,Email,No,Maharashtra
+C1961,Female,42,Unknown,2024-02-13,Organic Search,Yes,Delhi
+C1962,Female,21,Hyderabad,2025-04-20,Google Ads,Yes,Telangana
+C1963,Female,34,Nagpur,2023-08-06,Email,No,Maharashtra
+C1964,Female,45,Nagpur,2025-08-07,Google Ads,Yes,Maharashtra
+C1965,Male,18,Nagpur,2024-08-11,Google Ads,Yes,Maharashtra
+C1966,Male,34,Hyderabad,2024-08-24,Referral,No,Telangana
+C1967,Male,26,Mumbai,2023-11-14,Organic Search,No,Maharashtra
+C1968,Male,28,Bengaluru,2025-07-09,Referral,Yes,Karnataka
+C1969,Female,23,Delhi,2023-02-06,Email,No,Delhi
+C1970,Male,30,Mumbai,2023-10-26,YouTube,No,Maharashtra
+C1971,Female,50,Mumbai,2024-02-23,Instagram Ads,No,Maharashtra
+C1972,Female,19,Hyderabad,2024-04-22,Instagram Ads,Yes,Telangana
+C1973,Female,20,Bengaluru,2024-04-19,Referral,No,Karnataka
+C1974,Male,19,Delhi,2023-05-28,Google Ads,No,Delhi
+C1975,Male,49,Kolkata,2023-08-14,Instagram Ads,Yes,West Bengal
+C1976,Female,27,Unknown,2023-04-06,Organic Search,Yes,Karnataka
+C1977,Female,32,Indore,2024-07-26,Organic Search,Yes,Madhya Pradesh
+C1978,Other,28,Delhi,2023-12-17,Instagram Ads,No,Delhi
+C1979,Female,23,Chennai,2024-07-19,Organic Search,Yes,Tamil Nadu
+C1980,Female,30,Delhi,2024-08-12,Organic Search,No,Delhi
+C1981,Male,57,Chennai,2024-12-03,Organic Search,No,Tamil Nadu
+C1982,Male,46,Delhi,2024-07-01,YouTube,Yes,Delhi
+C1983,Male,23,Delhi,2024-10-09,Organic Search,No,Delhi
+C1984,Female,38,Pune,2024-08-10,Organic Search,Yes,Maharashtra
+C1985,Female,24,Delhi,2024-10-14,Instagram Ads,Yes,Delhi
+C1986,Male,32,Delhi,2024-09-08,Organic Search,No,Delhi
+C1987,Female,42,Lucknow,2023-11-13,YouTube,No,Uttar Pradesh
+C1988,Male,44,Mumbai,2023-09-04,YouTube,No,Maharashtra
+C1989,Male,42,Unknown,2025-02-26,Instagram Ads,No,Tamil Nadu
+C1990,Male,27,Chennai,2023-12-09,Instagram Ads,Yes,Tamil Nadu
+C1991,Male,30,Delhi,2024-07-03,Instagram Ads,No,Delhi
+C1992,Female,39,Hyderabad,2023-07-16,Organic Search,Yes,Telangana
+C1993,Male,32,Mumbai,2024-03-07,Instagram Ads,No,Maharashtra
+C1994,Female,28,Ahmedabad,2024-06-13,Organic Search,No,Gujarat
+C1995,Female,18,Delhi,2024-09-18,Organic Search,No,Delhi
+C1996,Male,33,Delhi,2024-06-10,Google Ads,No,Delhi
+C1997,Male,43,Bengaluru,2023-12-27,Organic Search,No,Karnataka
+C1998,Female,20,Lucknow,2025-08-19,Organic Search,No,Uttar Pradesh
+C1999,Male,38,Jaipur,2024-05-27,Google Ads,Yes,Rajasthan
+C2000,Female,35,Unknown,2025-03-19,Instagram Ads,Yes,Madhya Pradesh
+C2001,Male,40,Kolkata,2025-01-06,Organic Search,Yes,West Bengal
+C2002,Female,41,Kolkata,2024-07-12,Organic Search,No,West Bengal
+C2003,Female,25,Bangalore,2025-06-05,Organic Search,No,Telangana
+C2004,Male,18,Lucknow,2023-05-09,Organic Search,Yes,Uttar Pradesh
+C2005,Male,27,Chennai,2025-07-10,Email,No,Tamil Nadu
+C2006,Female,41,Bengaluru,2025-04-30,YouTube,No,Karnataka
+C2007,Male,27,Pune,2024-05-18,Instagram Ads,Yes,Maharashtra
+C2008,Male,25,Chennai,2025-01-03,Instagram Ads,No,Tamil Nadu
+C2009,Male,18,Mumbai,2024-06-04,Referral,No,Maharashtra
+C2010,Male,50,Bengaluru,2023-09-26,Google Ads,No,Karnataka
+C2011,Female,40,Bengaluru,2025-03-10,Organic Search,No,Karnataka
+C2012,Female,40,Indore,2023-09-03,Organic Search,No,Madhya Pradesh
+C2013,Male,42,Bengaluru,2023-11-11,Instagram Ads,No,Karnataka
+C2014,Female,32,Jaipur,2024-06-03,Google Ads,No,Rajasthan
+C2015,Male,30,Hyderabad,2025-04-17,Organic Search,No,Telangana
+C2016,Male,30,Ahmedabad,2024-01-19,Instagram Ads,No,Gujarat
+C2017,Female,28,Mumbai,2024-05-09,Instagram Ads,No,Maharashtra
+C2018,Other,58,Lucknow,2023-02-11,Instagram Ads,No,Uttar Pradesh
+C2019,Male,38,Hyderabad,2023-04-26,Instagram Ads,Yes,Telangana
+C2020,Male,27,Unknown,2023-02-25,Google Ads,Yes,Delhi
+C2021,Female,37,Delhi,2023-03-14,Google Ads,No,Delhi
+C2022,Female,22,Delhi,2025-05-18,Organic Search,No,Delhi
+C2023,Male,47,Unknown,2025-04-21,Organic Search,No,Karnataka
+C2024,Male,25,Kolkata,2025-04-01,Email,No,West Bengal
+C2025,Female,37,Bhopal,2023-02-25,Google Ads,Yes,Madhya Pradesh
+C2026,Male,43,Bangalore,2023-03-19,Organic Search,Yes,West Bengal
+C2027,Male,36,Chennai,2023-10-08,Instagram Ads,No,Tamil Nadu
+C2028,Male,33,Hyderabad,2024-07-19,Email,Yes,Telangana
+C2029,Male,32,Jaipur,2023-12-01,Referral,No,Rajasthan
+C2030,Male,31,Indore,2024-05-02,Email,No,Madhya Pradesh
+C2031,Female,32,Bengaluru,2023-06-22,Google Ads,No,Karnataka
+C2032,Female,28,Bhopal,2024-12-31,Instagram Ads,No,Madhya Pradesh
+C2033,Female,47,Bengaluru,2023-11-10,Instagram Ads,No,Karnataka
+C2034,Other,31,Jaipur,2023-03-08,Organic Search,No,Rajasthan
+C2035,Male,24,Nagpur,2025-01-12,Google Ads,Yes,Maharashtra
+C2036,Male,27,Kolkata,2025-06-21,Google Ads,No,West Bengal
+C2037,Female,32,Delhi,2023-01-15,Organic Search,No,Delhi
+C2038,Male,39,Pune,2024-03-12,Email,Yes,Maharashtra
+C2039,Female,38,Mumbai,2025-04-07,Instagram Ads,No,Maharashtra
+C2040,Female,29,Jaipur,2024-12-07,Organic Search,No,Rajasthan
+C2041,Male,32,Bengaluru,2025-05-06,Instagram Ads,Yes,Karnataka
+C2042,Male,26,Kolkata,2024-02-20,Email,No,West Bengal
+C2043,Male,29,Lucknow,2024-01-08,YouTube,No,Uttar Pradesh
+C2044,Male,42,Delhi,2024-12-10,Google Ads,No,Delhi
+C2045,Male,41,Bengaluru,2023-06-03,YouTube,No,Karnataka
+C2046,Male,22,Pune,2023-08-28,Email,No,Maharashtra
+C2047,Female,23,Hyderabad,2024-08-23,Email,No,Telangana
+C2048,Female,33,Delhi,2024-10-30,Email,No,Delhi
+C2049,Female,49,Mumbai,2023-04-30,Instagram Ads,Yes,Maharashtra
+C2050,Male,18,Unknown,2024-05-23,Referral,Yes,Telangana
+C2051,Male,35,Pune,2023-12-31,Google Ads,No,Maharashtra
+C2052,Male,32,Pune,2024-05-16,Referral,No,Maharashtra
+C2053,Male,26,Delhi,2025-08-16,Organic Search,Yes,Delhi
+C2054,Female,28,Hyderabad,2023-03-18,Referral,No,Telangana
+C2055,Male,28,Bengaluru,2025-09-22,YouTube,No,Karnataka
+C2056,Male,27,Bengaluru,2024-03-25,Instagram Ads,No,Karnataka
+C2057,Female,32,Bangalore,2025-02-11,YouTube,No,Gujarat
+C2058,Male,27,Bengaluru,2024-02-29,Instagram Ads,No,Karnataka
+C2059,Male,18,Chennai,2023-11-07,Organic Search,No,Tamil Nadu
+C2060,Male,32,Lucknow,2025-02-09,Organic Search,No,Uttar Pradesh
+C2061,Female,40,Chennai,2024-11-18,Referral,Yes,Tamil Nadu
+C2062,Female,40,Pune,2023-05-25,Google Ads,No,Maharashtra
+C2063,Male,18,Mumbai,2024-12-06,Instagram Ads,Yes,Maharashtra
+C2064,Female,35,Delhi,2025-01-23,Google Ads,No,Delhi
+C2065,Female,39,Mumbai,2024-01-23,Instagram Ads,Yes,Maharashtra
+C2066,Female,22,Ahmedabad,2025-07-14,Instagram Ads,No,Gujarat
+C2067,Male,32,Indore,2024-10-02,Email,No,Madhya Pradesh
+C2068,Male,31,Delhi,2023-11-30,Google Ads,Yes,Delhi
+C2069,Female,50,Delhi,2023-01-11,Referral,No,Delhi
+C2070,Male,51,Bengaluru,2024-11-05,Google Ads,Yes,Karnataka
+C2071,Female,18,Pune,2023-07-29,YouTube,No,Maharashtra
+C2072,Female,57,Pune,2025-01-26,Organic Search,No,Maharashtra
+C2073,Male,23,Kolkata,2024-06-09,Instagram Ads,No,West Bengal
+C2074,Female,42,Lucknow,2024-04-11,Organic Search,No,Uttar Pradesh
+C2075,Female,32,Bangalore,2023-06-13,Google Ads,No,Karnataka
+C2076,Female,22,Kolkata,2024-12-12,Google Ads,No,West Bengal
+C2077,Male,37,Chennai,2023-06-15,Referral,No,Tamil Nadu
+C2078,Female,31,Bengaluru,2024-02-22,Instagram Ads,No,Karnataka
+C2079,Female,38,Lucknow,2025-04-16,Organic Search,No,Uttar Pradesh
+C2080,Female,34,Mumbai,2025-07-09,Google Ads,Yes,Maharashtra
+C2081,Female,44,Kolkata,2025-09-16,YouTube,No,West Bengal
+C2082,Female,33,Ahmedabad,2025-08-16,Instagram Ads,Yes,Gujarat
+C2083,Male,30,Lucknow,2024-07-09,Organic Search,No,Uttar Pradesh
+C2084,Male,43,Chennai,2023-07-20,Instagram Ads,No,Tamil Nadu
+C2085,Male,38,Bengaluru,2025-04-19,Instagram Ads,No,Karnataka
+C2086,Female,39,Jaipur,2025-03-12,Instagram Ads,Yes,Rajasthan
+C2087,Female,25,Ahmedabad,2025-09-17,Instagram Ads,Yes,Gujarat
+C2088,Female,32,Chennai,2024-10-12,Google Ads,No,Tamil Nadu
+C2089,Male,26,Ahmedabad,2023-05-22,Instagram Ads,Yes,Gujarat
+C2090,Female,26,Delhi,2024-05-17,Instagram Ads,No,Delhi
+C2091,Female,40,Pune,2024-03-24,Organic Search,No,Maharashtra
+C2092,Male,42,Indore,2025-04-22,YouTube,No,Madhya Pradesh
+C2093,Female,30,Bengaluru,2024-01-28,Instagram Ads,Yes,Karnataka
+C2094,Female,46,Hyderabad,2023-11-25,Instagram Ads,No,Telangana
+C2095,Female,32,Bhopal,2023-03-22,Organic Search,No,Madhya Pradesh
+C2096,Male,34,Jaipur,2025-04-15,Google Ads,No,Rajasthan
+C2097,Female,32,Ujjain,2025-01-25,Email,Yes,Madhya Pradesh
+C2098,Female,48,Bengaluru,2023-02-11,Organic Search,Yes,Karnataka
+C2099,Female,31,Nagpur,2024-03-09,Organic Search,No,Maharashtra
+C2100,Female,33,Delhi,2024-04-24,Organic Search,No,Delhi
+C2101,Other,29,Chennai,2024-04-14,Google Ads,No,Tamil Nadu
+C2102,Male,23,Hyderabad,2025-07-07,YouTube,Yes,Telangana
+C2103,Female,32,Jaipur,2023-05-31,Instagram Ads,No,Rajasthan
+C2104,Male,38,Lucknow,2023-11-03,Instagram Ads,Yes,Uttar Pradesh
+C2105,Other,24,Ahmedabad,2023-06-30,Referral,Yes,Gujarat
+C2106,Male,63,Pune,2023-09-02,Referral,No,Maharashtra
+C2107,Male,21,Hyderabad,2025-06-26,Organic Search,No,Telangana
+C2108,Female,19,Chennai,2025-07-29,Organic Search,Yes,Tamil Nadu
+C2109,Male,37,Chennai,2023-02-14,Instagram Ads,No,Tamil Nadu
+C2110,Female,47,Mumbai,2024-09-24,Referral,Yes,Maharashtra
+C2111,Male,33,Chennai,2023-08-21,Referral,Yes,Tamil Nadu
+C2112,Other,38,Indore,2023-07-12,Google Ads,No,Madhya Pradesh
+C2113,Female,18,Kolkata,2023-10-20,Email,No,West Bengal
+C2114,Male,25,Jaipur,2023-07-14,Instagram Ads,No,Rajasthan
+C2115,Female,21,Bengaluru,2024-05-05,Instagram Ads,No,Karnataka
+C2116,Male,18,Chennai,2025-09-22,Organic Search,Yes,Tamil Nadu
+C2117,Female,33,Mumbai,2024-08-09,Email,No,Maharashtra
+C2118,Female,18,Bengaluru,2024-12-24,Google Ads,No,Karnataka
+C2119,Female,19,Hyderabad,2024-05-08,Instagram Ads,Yes,Telangana
+C2120,Male,27,Delhi,2023-01-14,Organic Search,No,Delhi
+C2121,Male,24,Unknown,2023-03-26,Referral,Yes,Maharashtra
+C2122,Female,36,Unknown,2023-09-26,Referral,No,West Bengal
+C2123,Female,35,Hyderabad,2023-09-01,Google Ads,No,Telangana
+C2124,Female,41,Hyderabad,2025-04-20,Organic Search,Yes,Telangana
+C2125,Male,40,Delhi,2025-04-23,YouTube,No,Delhi
+C2126,Male,43,Chennai,2025-05-04,Referral,Yes,Tamil Nadu
+C2127,Female,32,Hyderabad,2024-09-29,Google Ads,No,Telangana
+C2128,Male,35,Hyderabad,2024-07-10,Google Ads,Yes,Telangana
+C2129,Male,37,Bangalore,2024-10-11,YouTube,Yes,Maharashtra
+C2130,Female,33,Mumbai,2024-02-11,YouTube,No,Maharashtra
+C2131,Male,28,Lucknow,2024-11-01,Google Ads,No,Uttar Pradesh
+C2132,Female,29,Mumbai,2025-03-05,Instagram Ads,Yes,Maharashtra
+C2133,Male,24,Hyderabad,2025-02-01,Instagram Ads,No,Telangana
+C2134,Female,36,Delhi,2024-09-05,Email,Yes,Delhi
+C2135,Female,31,Chennai,2023-02-28,Google Ads,No,Tamil Nadu
+C2136,Female,25,Bengaluru,2024-12-25,Organic Search,No,Karnataka
+C2137,Male,25,Indore,2024-01-02,Organic Search,Yes,Madhya Pradesh
+C2138,Female,20,Bengaluru,2025-01-13,YouTube,No,Karnataka
+C2139,Female,42,Pune,2024-06-23,Email,No,Maharashtra
+C2140,Male,33,Delhi,2025-05-31,YouTube,No,Delhi
+C2141,Male,32,Mumbai,2023-12-05,Instagram Ads,No,Maharashtra
+C2142,Male,40,Hyderabad,2025-07-20,Referral,No,Telangana
+C2143,Female,26,Chennai,2025-04-24,Email,No,Tamil Nadu
+C2144,Female,18,Hyderabad,2023-11-28,Instagram Ads,No,Telangana
+C2145,Female,42,Nagpur,2024-04-27,Organic Search,No,Maharashtra
+C2146,Female,27,Kolkata,2024-06-15,YouTube,No,West Bengal
+C2147,Female,28,Nagpur,2025-02-07,Organic Search,No,Maharashtra
+C2148,Male,32,Bengaluru,2024-11-20,Google Ads,No,Karnataka
+C2149,Male,43,Jaipur,2025-05-02,Google Ads,No,Rajasthan
+C2150,Female,32,Chennai,2024-01-05,Referral,No,Tamil Nadu
+C2151,Male,20,Bangalore,2024-05-19,Instagram Ads,No,Maharashtra
+C2152,Female,37,Nagpur,2024-03-06,Referral,No,Maharashtra
+C2153,Female,27,Kolkata,2025-06-28,Organic Search,No,West Bengal
+C2154,Male,51,Lucknow,2023-11-01,Email,No,Uttar Pradesh
+C2155,Female,32,Ahmedabad,2024-08-10,Organic Search,No,Gujarat
+C2156,Male,18,Mumbai,2023-05-01,Referral,No,Maharashtra
+C2157,Other,36,Kolkata,2025-04-30,Referral,No,West Bengal
+C2158,Female,51,Hyderabad,2024-01-20,Organic Search,Yes,Telangana
+C2159,Female,48,Lucknow,2023-12-07,Organic Search,No,Uttar Pradesh
+C2160,Male,50,Jaipur,2024-08-05,Referral,Yes,Rajasthan
+C2161,Male,22,Mumbai,2024-05-13,Organic Search,Yes,Maharashtra
+C2162,Male,41,Mumbai,2025-04-27,Organic Search,No,Maharashtra
+C2163,Male,25,Mumbai,2024-06-15,Instagram Ads,No,Maharashtra
+C2164,Male,34,Chennai,2024-05-31,YouTube,No,Tamil Nadu
+C2165,Male,19,Mumbai,2023-04-15,Google Ads,Yes,Maharashtra
+C2166,Other,26,Ahmedabad,2023-01-22,Instagram Ads,No,Gujarat
+C2167,Male,25,Chennai,2024-02-03,YouTube,No,Tamil Nadu
+C2168,Male,41,Indore,2025-09-25,Instagram Ads,No,Madhya Pradesh
+C2169,Female,40,Bengaluru,2025-07-06,Instagram Ads,No,Karnataka
+C2170,Female,35,Chennai,2024-09-20,Instagram Ads,No,Tamil Nadu
+C2171,Female,18,Mumbai,2024-09-22,Instagram Ads,Yes,Maharashtra
+C2172,Female,29,Ujjain,2024-01-27,Instagram Ads,Yes,Madhya Pradesh
+C2173,Female,25,Delhi,2023-06-27,Referral,Yes,Delhi
+C2174,Female,41,Mumbai,2023-01-09,Organic Search,No,Maharashtra
+C2175,Female,44,Delhi,2023-12-05,Referral,Yes,Delhi
+C2176,Female,43,Jaipur,2023-11-13,Organic Search,Yes,Rajasthan
+C2177,Male,24,Mumbai,2023-07-11,Instagram Ads,Yes,Maharashtra
+C2178,Male,18,Pune,2023-09-17,Organic Search,Yes,Maharashtra
+C2179,Male,18,Ahmedabad,2023-01-25,Google Ads,No,Gujarat
+C2180,Male,46,Ahmedabad,2024-08-30,Referral,Yes,Gujarat
+C2181,Female,28,Delhi,2025-07-16,Instagram Ads,No,Delhi
+C2182,Male,32,Mumbai,2024-11-21,Organic Search,Yes,Maharashtra
+C2183,Male,48,Hyderabad,2024-03-24,Organic Search,Yes,Telangana
+C2184,Male,45,Delhi,2024-02-25,Email,Yes,Delhi
+C2185,Female,32,Kolkata,2023-11-04,Instagram Ads,No,West Bengal
+C2186,Male,29,Bengaluru,2023-05-23,Referral,Yes,Karnataka
+C2187,Female,31,Hyderabad,2024-08-21,Instagram Ads,No,Telangana
+C2188,Female,34,Mumbai,2024-07-20,Organic Search,Yes,Maharashtra
+C2189,Male,48,Chennai,2023-01-08,Referral,No,Tamil Nadu
+C2190,Female,36,Delhi,2024-02-20,Instagram Ads,Yes,Delhi
+C2191,Male,39,Kolkata,2023-10-06,Organic Search,No,West Bengal
+C2192,Male,44,Mumbai,2023-06-20,YouTube,No,Maharashtra
+C2193,Female,20,Nagpur,2024-12-04,Organic Search,Yes,Maharashtra
+C2194,Female,40,Kolkata,2024-06-09,Instagram Ads,Yes,West Bengal
+C2195,Male,29,Delhi,2024-09-25,Instagram Ads,No,Delhi
+C2196,Female,18,Mumbai,2024-12-14,Google Ads,Yes,Maharashtra
+C2197,Male,18,Bengaluru,2025-09-08,Referral,Yes,Karnataka
+C2198,Female,22,Bangalore,2025-03-13,Organic Search,No,Delhi
+C2199,Female,37,Delhi,2024-09-12,YouTube,Yes,Delhi
